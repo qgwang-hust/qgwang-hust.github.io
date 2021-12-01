@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Shixuan Sun is currently a Senior Research Fellow at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-His research interests are in database systems, graph algorithms, and parallel computing. Current focus is on acceleration for graph queries, and graph-based fraud detection.
+Xinyu Chen is currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+His research interests are in 
+database systems, graph algorithms, and parallel computing. Current focus is on acceleration for graph queries, and graph-based fraud detection.
 
 He received his Ph.D. in Computer Sciences from the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST) in 2020,
 supervised by [Prof. Qiong Luo](http://www.cs.ust.hk/~luo/). Prior to that, he got his M.S and B.S. in Computer Sciences from the School of Software Engineering,
@@ -79,7 +80,6 @@ Honors & Awards
 
 <br/><br/>
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=200&t=n&d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA"></script> -->
