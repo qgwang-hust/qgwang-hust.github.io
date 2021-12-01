@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shixuan's Homepage"
+title                    : "Xinyu Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Shixuan Sun"
-description              : &description "Senior Research Fellow at National University of Singapore"
-url                      : https://shixuansun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xinyu Chen"
+description              : &description "Ph.D. candidate at National University of Singapore"
+url                      : https://soldierchen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shixuansun.github.io"
+repository               : "soldierchen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shixuan Sun  \n孙 世 轩"
-  avatar           : "shixuansun.jpg"
-  bio              : "Senior Research Fellow at School of Computing, National University of Singapore"
+  name             : "Xinyu Chen  \n陈 鑫 宇"
+  avatar           : "headshot.jpg"
+  bio              : "I am a Ph.D. candidate at School of Computing, National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=jCAwFlgAAAAJ&hl=en"
-  email            :  "sunsx AT comp DOT nus DOT edu DOT sg"
+  googlescholar    : "https://scholar.google.com/citations?user=h4kJ1UwAAAAJ&hl=en"
+  email            :  "xinyuc@comp.nus.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shixuansun"
+  github           : "soldierchen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xinyu-chen-6055a5130/"
   orcid            : 
   pinterest        :
   soundcloud       :
