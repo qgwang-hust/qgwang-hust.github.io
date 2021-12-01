@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Xinyu Chen is currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-His research interests are in hardware accelerator, FPGAs; heterogeneous computing, graph processing; database systems.
+I am currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
+My research interests are in hardware accelerator, FPGAs; heterogeneous computing, graph processing; database systems.
 
 
 Education
 ======
-* National University of Singapore (Sep 2017 - Jul 2022)
+* National University of Singapore (Sep 2017 - Jul 2022) 
   * Ph.D. - Computer Science 
-*  Harbin Institute of Technology (Aug 2012 - Jun 2016)
+*  Harbin Institute of Technology (Aug 2012 - Jun 2016) 
   * B.E. - Microelectronic Engineering
 
 
