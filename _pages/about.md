@@ -13,8 +13,8 @@ About me
 ======
 
 I am currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing, database systems.
-
+<!-- My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing and database systems. -->
+My research focuses on *deployable* hardware accelerators (with special interests in FPGAs) for emerging applications such as graph processing and database systems. 
 
 Education
 ======
