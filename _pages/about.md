@@ -15,7 +15,8 @@ My research interests are in hardware accelerator, FPGAs; heterogeneous computin
 Education
 ======
 * National University of Singapore (Sep 2017 - Jul 2022)
-  * Ph.D. - Computer Science 
+  * Ph.D. - Computer Science
+
 *  Harbin Institute of Technology (Aug 2012 - Jun 2016)
   * B.E. - Microelectronic Engineering
 
