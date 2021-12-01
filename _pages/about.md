@@ -79,7 +79,6 @@ Honors & Awards
 * Google Excellent Student Scholarship 2010
 
 <br/><br/>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=200&t=n&d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=260&t=n&d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA"></script> -->
