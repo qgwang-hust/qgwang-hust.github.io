@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,7 +17,7 @@ Tongji University in 2014 and 2011 respectively. He worked as a Software Develop
 
 Contact
 ======
-Email: [sunsx] AT [comp] DOT [nus] DOT [edu] DOT [sg]
+Email: [xinyuc] AT [comp] DOT [nus] DOT [edu] DOT [sg]
 
 Research Projects
 ======
@@ -78,6 +78,8 @@ Honors & Awards
 * Google Excellent Student Scholarship 2010
 
 <br/><br/>
+
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA&cl=ffffff&w=a"></script>
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA"></script> -->
