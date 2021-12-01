@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+About me
+======
+
 I am currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing, database systems.
 
