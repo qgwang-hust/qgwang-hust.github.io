@@ -16,10 +16,10 @@ Education
 ======
 
 * National University of Singapore (Sep 2017 - Jul 2022)
-  * Ph.D. - Computer Science
+  * Ph.D. in Computer Science
 
 * Harbin Institute of Technology (Aug 2012 - Jun 2016)
-  * B.E. - Microelectronic Engineering
+  * B.E. in Microelectronic Engineering
 
 
 <!-- Contact
@@ -41,7 +41,7 @@ Publications
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022. (in minor revision)
  
 * Hongshi Tan, **Xinyu Chen**, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " ThundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs"  The International Conference on Supercomputing (**ICS**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/ICS2021.pdf)][[Code](https://github.com/Xtra-Computing/ThundeRiNG)]
- 
+
 * **Xinyu Chen**, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " Skew-Oblivious Data Routing for Data-Intensive Applications on FPGAs with HLS"  The 58th Design Automation Conference (**DAC**), 2021.  [[Paper](https://www.dropbox.com/s/794qf26uxru6ngj/ditto_camera_ready_IEEE.pdf?dl=0)]
 
 * **Xinyu Chen**, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "ThunderGP: HLS-based graph processing framework on FPGAs" The International Symposium on Field-Programmable Gate Arrays (**FPGA**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/FPGA2021.pdf)][[Code](https://github.com/Xtra-Computing/ThunderGP)]
