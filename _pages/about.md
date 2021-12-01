@@ -67,11 +67,7 @@ Work experience
   * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
 
 
-Teaching Experiences
-======
-* Teaching Assistant of CS4225: Big Data Systems for Data Science (NUS, 2020 Spring)
-* Teaching Assistant of CG2271: Real-time Operating System (NUS, 2018 Spring, 2018 Fall and 2019 Fall)
-* Teaching Assistant of IT1001: Introduction to Computing (NUS, 2019 Fall)
+
 
 Honors & Awards
 ======
@@ -83,9 +79,19 @@ Honors & Awards
 * National Scholarship (Top 2%), issued by China Ministry of Education (2013)
 * National Undergraduate Electronics Design Contest (Second Prize，Top 4.9%), issued by China Ministry of Education (2013)
 
+
+Teaching Experiences
+======
+* Teaching Assistant of CS4225: Big Data Systems for Data Science 
+  * NUS, 2020 Spring
+* Teaching Assistant of CG2271: Real-time Operating System
+  * NUS, 2018 Spring, 2018 Fall and 2019 Fall
+* Teaching Assistant of IT1001: Introduction to Computing
+  * NUS, 2019 Fall
+
 Talks
 ======
-* The Xilinx Adaptive Compute Clusters (XACC) Technique Talk, 2021 
+* Xilinx Adaptive Compute Clusters (XACC) Technique Talk, 2021 [[link](https://xilinx.github.io/xacc/xacc_tech_talks.html)]
 * Xilinx University Program Winter Camp invited talk, 2021
 * Invited talk at Georgia Tech seminar, 2021
 
@@ -94,6 +100,8 @@ Professional Services
 * Reviewer of Information Science 2021
 * External reviewer of ICDCS 2021
 * External reviewer of CCGrid 2021
+
+
 
 
 <br/><br/>
