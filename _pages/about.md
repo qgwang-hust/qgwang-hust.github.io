@@ -14,25 +14,27 @@ His research interests are in hardware accelerator, FPGAs; heterogeneous computi
 
 Education
 ======
-* Ph.D. - National University of Singapore - Computer Science  (Sep 2017 - Jul 2022)
-* B.E. - Harbin Institute of Technology - Microelectronic Engineering (Aug 2012 - Jun 2016)
+* National University of Singapore (Sep 2017 - Jul 2022)
+  * Ph.D. in Computer Science 
+*  Harbin Institute of Technology (Aug 2012 - Jun 2016)
+  * B.E. in Microelectronic Engineering
 
-Contact
+
+<!-- Contact
 ======
-Email: xinyuc@comp.nus.edu.sg
-<!-- 
- [xinyuc] AT [comp] DOT [nus] DOT [edu] DOT [sg] -->
+Email: xinyuc@comp.nus.edu.sg -->
+
+
 Research Projects
 ======
-* Empowering effective fraud detection with graph-based approaches.
-* Accelerating concurrent graph query processing on heterogeneous processors.
-* Accelerating subgraph query processing on a single machine.
-* Accelerating graph structural clustering algorithms on heterogeneous processors.
+* An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs.
+* Efficient Graph Processing Framework on HLS-based FPGAs.
+* Hash Joins on Coupled CPU-FPGA Architecture.
+* Breadth-first Search (BFS) on Coupled CPU-FPGA Architecture.
 
 Publications
 ======
 
-**Conference Papers**
 
 * **Shixuan Sun**, Yuhang Chen, Shengliang Lu, Bingsheng He, Yuchen Li. "ThunderRW: An In-Memory Graph Random Walk Engine." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](http://vldb.org/pvldb/vol14/p1992-sun.pdf)][[Report](https://arxiv.org/abs/2107.11983)][[Code](https://github.com/Xtra-Computing/ThunderRW)]
 
@@ -58,9 +60,11 @@ Publications
 
 * **Shixuan Sun**, Qiong Luo. "Parallelizing Recursive Backtracking Based Subgraph Matching on a Single Machine." 2018 IEEE 24th International Conference on Parallel and Distributed Systems (**ICPADS**). 2018.  [[Paper](/files/ICPADS18-PSM.pdf)][[Slides](/files/ICPADS18-PSM-Slides.pdf)]
 
-**Journal Papers**
 
 * **Shixuan Sun**, Qiong Luo. "Subgraph Matching with Effective Matching Order and Indexing." IEEE Transactions on Knowledge and Data Engineering (**TKDE**). 2020. [[Paper](/files/TKDE20-VC.pdf)]
+
+
+
 
 Professional Services
 ======
