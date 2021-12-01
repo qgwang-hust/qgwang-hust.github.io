@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-My research interests are in hardware accelerator, FPGAs; heterogeneous computing, graph processing; database systems.
+My research interests are in hardware accelerator, FPGAs, heterogeneous computing, graph processing, database systems.
 
 
 Education
 ======
 
-* National University of Singapore (Sep 2017 - Jul 2022)
+* National University of Singapore (Sep 2017 - March 2022 expected)
   * Ph.D. in Computer Science
 
 * Harbin Institute of Technology (Aug 2012 - Jun 2016)
@@ -29,10 +29,9 @@ Email: xinyuc@comp.nus.edu.sg -->
 Research Projects
 ======
 * An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs
-* Efficient Graph Processing Framework on HLS-based FPGAs
+* An Efficient Graph Processing Framework on HLS-based FPGAs
 * Hash Joins on Coupled CPU-FPGA Architecture
 * Breadth-first Search (BFS) on Coupled CPU-FPGA Architecture
-
 
 
 Publications
@@ -69,8 +68,6 @@ Work Experiences
   * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
 
 
-
-
 Honors & Awards
 ======
 * Research Achievement Award, issued by National University of Singapore (2021)
@@ -102,8 +99,6 @@ Professional Services
 * Reviewer of Information Science 2021
 * External reviewer of ICDCS 2021
 * External reviewer of CCGrid 2021
-
-
 
 
 <br/><br/>
