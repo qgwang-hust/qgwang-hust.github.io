@@ -39,19 +39,19 @@ Publications
 
 * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022. (in minor revision)
 
-* Hongshi Tan, **Xinyu Chen**, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " ThundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs"  The International Conference on Supercomputing (**ICS**), 2021. [[Paper](http://vldb.org/pvldb/vol14/p1992-sun.pdf)][[Code](https://github.com/Xtra-Computing/ThunderRW)]
+* Hongshi Tan, **Xinyu Chen**, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " ThundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs"  The International Conference on Supercomputing (**ICS**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/ICS2021.pdf)][[Code](https://github.com/Xtra-Computing/ThundeRiNG)]
  
 * **Xinyu Chen**, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " Skew-Oblivious Data Routing for Data-Intensive Applications on FPGAs with HLS"  The 58th Design Automation Conference (**DAC**), 2021.  [[Paper](https://www.dropbox.com/s/794qf26uxru6ngj/ditto_camera_ready_IEEE.pdf?dl=0)]
 
-* **Xinyu Chen**, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "ThunderGP: HLS-based graph processing framework on FPGAs" The International Symposium on Field-Programmable Gate Arrays (**FPGA**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/FPGA2021.pdf)]
+* **Xinyu Chen**, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "ThunderGP: HLS-based graph processing framework on FPGAs" The International Symposium on Field-Programmable Gate Arrays (**FPGA**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/FPGA2021.pdf)][[Code](https://github.com/Xtra-Computing/ThunderGP)]
 
-* **Xinyu Chen**, Yao Chen, Ronak Bajaj, Jiong He, Bingsheng He, Weng-Fai Wong and Deming Chen. "Is FPGA useful for hash joins?" The International Conference on Innovative Data Systems Research (**CIDR**), 2020. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/cidr20-join.pdf)]
+* **Xinyu Chen**, Yao Chen, Ronak Bajaj, Jiong He, Bingsheng He, Weng-Fai Wong and Deming Chen. "Is FPGA useful for hash joins?" The International Conference on Innovative Data Systems Research (**CIDR**), 2020. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/cidr20-join.pdf)][[Code](https://github.com/Xtra-Computing/HashjoinOnHARP)]
 
-* Husong Liu, Shengliang Lu, **Xinyu Chen**, and Bingsheng He. "G 3: When Graph Neural Networks Meet Parallel Graph Processing Systems on GPUs." The International Conference on Very Large Data Bases (**VLDB**), 2020. (demo paper) [[Paper](http://www.vldb.org/pvldb/vol13/p2813-liu.pdf)]
+* Husong Liu, Shengliang Lu, **Xinyu Chen**, and Bingsheng He. "G 3: When Graph Neural Networks Meet Parallel Graph Processing Systems on GPUs." The International Conference on Very Large Data Bases (**VLDB**), 2020. (demo paper) [[Paper](http://www.vldb.org/pvldb/vol13/p2813-liu.pdf)][[Code](https://github.com/Xtra-Computing/G3)]
 
-* **Xinyu Chen**, Ronak Bajaj, Yao Chen, Jiong He, Bingsheng He, Weng-Fai Wong, and Deming Chen. "On-The-Fly Parallel Data Shuffling for Graph Processing on OpenCL-based FPGAs." The International Conference on Field Programmable Logic and Applications (**FPL**), 2019. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/fpl19-graph.pdf)]
+* **Xinyu Chen**, Ronak Bajaj, Yao Chen, Jiong He, Bingsheng He, Weng-Fai Wong, and Deming Chen. "On-The-Fly Parallel Data Shuffling for Graph Processing on OpenCL-based FPGAs." The International Conference on Field Programmable Logic and Applications (**FPL**), 2019. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/fpl19-graph.pdf)][[Code](https://github.com/Xtra-Computing/On-the-fly-data-shuffling-for-OpenCL-based-FPGAs)]
 
-* Cheng Liu, **Xinyu Chen**, Bingsheng He, Xiaofei Liao, Ying Wang, and Lei Zhang. "OBFS: OpenCL Based BFS Optimizations on Software Programmable FPGAs." The International Conference on Field-Programmable Technology (**FPT**), 2019. (short paper) 
+* Cheng Liu, **Xinyu Chen**, Bingsheng He, Xiaofei Liao, Ying Wang, and Lei Zhang. "OBFS: OpenCL Based BFS Optimizations on Software Programmable FPGAs." The International Conference on Field-Programmable Technology (**FPT**), 2019. (short paper) [[Paper](https://ieeexplore.ieee.org/abstract/document/8977884)][[Code](https://github.com/Liu-Cheng/bfs_with_Intel_OpenCL)]
 
 * Xuntao Cheng, Bingsheng He, Eric Lo, Wei Wang, Shengliang Lu, and **Xinyu Chen**. "Deploying Hash Tables on Die-Stacked High Bandwidth Memory." The International Conference on Information and Knowledge Management (**CIKM**), 2019.
 
@@ -64,8 +64,6 @@ Work experience
   * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
 * Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
   * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
-
-
 
 
 Teaching Experiences

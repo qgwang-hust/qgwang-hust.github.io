@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyu Chen's Homepage"
+title                    : "Welcome to Xinyu Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Xinyu Chen"
 description              : &description "Ph.D. candidate at National University of Singapore"
