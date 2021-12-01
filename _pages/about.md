@@ -9,17 +9,19 @@ redirect_from:
 ---
 
 Xinyu Chen is currently a Ph.D. candidate at the School of Computing, National University of Singapore, supervised by [Dr. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-His research interests are in 
-database systems, graph algorithms, and parallel computing. Current focus is on acceleration for graph queries, and graph-based fraud detection.
+His research interests are in hardware accelerator, FPGAs; heterogeneous computing, graph processing; database systems.
 
-He received his Ph.D. in Computer Sciences from the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST) in 2020,
-supervised by [Prof. Qiong Luo](http://www.cs.ust.hk/~luo/). Prior to that, he got his M.S and B.S. in Computer Sciences from the School of Software Engineering,
-Tongji University in 2014 and 2011 respectively. He worked as a Software Development Engineer at Microsoft (Shanghai) from 2014 to 2015.
+
+Education
+======
+* Ph.D. - National University of Singapore - Computer Science  (Sep 2017 - Jul 2022)
+* B.E. - Harbin Institute of Technology - Microelectronic Engineering (Aug 2012 - Jun 2016)
 
 Contact
 ======
-Email: [xinyuc] AT [comp] DOT [nus] DOT [edu] DOT [sg]
-
+Email: xinyuc@comp.nus.edu.sg
+<!-- 
+ [xinyuc] AT [comp] DOT [nus] DOT [edu] DOT [sg] -->
 Research Projects
 ======
 * Empowering effective fraud detection with graph-based approaches.
