@@ -15,15 +15,14 @@ His research interests are in hardware accelerator, FPGAs; heterogeneous computi
 Education
 ======
 * National University of Singapore (Sep 2017 - Jul 2022)
-  * Ph.D. in Computer Science 
+  * Ph.D. - Computer Science 
 *  Harbin Institute of Technology (Aug 2012 - Jun 2016)
-  * B.E. in Microelectronic Engineering
+  * B.E. - Microelectronic Engineering
 
 
 <!-- Contact
 ======
 Email: xinyuc@comp.nus.edu.sg -->
-
 
 Research Projects
 ======
@@ -35,56 +34,67 @@ Research Projects
 Publications
 ======
 
+<!-- * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines "  International Symposium on Computer Architecture (ISCA) , 2022. (in submission) -->
 
-* **Shixuan Sun**, Yuhang Chen, Shengliang Lu, Bingsheng He, Yuchen Li. "ThunderRW: An In-Memory Graph Random Walk Engine." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](http://vldb.org/pvldb/vol14/p1992-sun.pdf)][[Report](https://arxiv.org/abs/2107.11983)][[Code](https://github.com/Xtra-Computing/ThunderRW)]
+* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022. (in minor revision)
 
-* **Shixuan Sun**, Yuhang Chen, Bingsheng He, Bryan Hooi. "PathEnum: Towards Real-Time Hop-Constrained s-t Path Enumeration." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457290)][[Report](https://arxiv.org/pdf/2103.11137.pdf)][[Code](https://github.com/Xtra-Computing/PathEnum)]
+* Hongshi Tan, **Xinyu Chen**, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " ThundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs"  The International Conference on Supercomputing (**ICS**), 2021. [[Paper](http://vldb.org/pvldb/vol14/p1992-sun.pdf)][[Code](https://github.com/Xtra-Computing/ThunderRW)]
+ 
+* **Xinyu Chen**, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " Skew-Oblivious Data Routing for Data-Intensive Applications on FPGAs with HLS"  The 58th Design Automation Conference (**DAC**), 2021.  [[Paper](https://www.dropbox.com/s/794qf26uxru6ngj/ditto_camera_ready_IEEE.pdf?dl=0)]
 
-* Shengliang Lu, **Shixuan Sun**, Johns Paul, Yuchen Li, Bingsheng He. "Cache-Efficient Fork-Processing Patterns on Large Graphs." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457253)][[Report](https://arxiv.org/pdf/2103.14915.pdf)][[Code](https://github.com/Xtra-Computing/ForkGraph)]
+* **Xinyu Chen**, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "ThunderGP: HLS-based graph processing framework on FPGAs" The International Symposium on Field-Programmable Gate Arrays (**FPGA**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/FPGA2021.pdf)]
 
-* Johan Kok, Gaurav, Sienyi Tan, Feng Cheng, **Shixuan Sun**, Bingsheng He. "Efficient Deep Learning Pipelines for Accurate Cost Estimation over Large Scale Analytics Workload." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), Data Science and Engineering Track. 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3448016.3457546)][[Report](https://arxiv.org/pdf/2103.12465.pdf)][[Code](https://github.com/grab/grab-query-traces)]
+* **Xinyu Chen**, Yao Chen, Ronak Bajaj, Jiong He, Bingsheng He, Weng-Fai Wong and Deming Chen. "Is FPGA useful for hash joins?" The International Conference on Innovative Data Systems Research (**CIDR**), 2020. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/cidr20-join.pdf)]
 
-* **Shixuan Sun**, Xibo Sun, Yulin Che, Qiong Luo, Bingsheng He. "RapidMatch: A Holistic Approach to Subgraph Query Processing." International Conference on Very Large Data Bases (**VLDB**). 2021. [[Paper](/files/VLDB21-RapidMatch.pdf)][[Code](https://github.com/RapidsAtHKUST/RapidMatch)]
+* Husong Liu, Shengliang Lu, **Xinyu Chen**, and Bingsheng He. "G 3: When Graph Neural Networks Meet Parallel Graph Processing Systems on GPUs." The International Conference on Very Large Data Bases (**VLDB**), 2020. (demo paper) [[Paper](http://www.vldb.org/pvldb/vol13/p2813-liu.pdf)]
 
-* **Shixuan Sun**, Qiong Luo. "In-Memory Subgraph Matching: An In-depth Study." ACM SIGMOD International Conference on Management of Data (**SIGMOD**). 2020. [[Paper](/files/SIGMOD20-Study.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphMatching)][[Slides](/files/SIGMOD20-Study-Slides.pdf)]
+* **Xinyu Chen**, Ronak Bajaj, Yao Chen, Jiong He, Bingsheng He, Weng-Fai Wong, and Deming Chen. "On-The-Fly Parallel Data Shuffling for Graph Processing on OpenCL-based FPGAs." The International Conference on Field Programmable Logic and Applications (**FPL**), 2019. [[Paper](https://www.comp.nus.edu.sg/~hebs/pub/fpl19-graph.pdf)]
 
-* Yulin Che, Zhuohang Lai, **Shixuan Sun**, Yue Wang, Qiong Luo. "Accelerating Truss Decomposition on Heterogeneous Processors." International Conference on Very Large Data Bases (**VLDB**).  2020. [[Paper](/files/VLDB20-AccTD.pdf)][[Code](https://github.com/RapidsAtHKUST/AccTrussDecomposition)]
+* Cheng Liu, **Xinyu Chen**, Bingsheng He, Xiaofei Liao, Ying Wang, and Lei Zhang. "OBFS: OpenCL Based BFS Optimizations on Software Programmable FPGAs." The International Conference on Field-Programmable Technology (**FPT**), 2019. (short paper) 
 
-* **Shixuan Sun**, Yulin Che, Lipeng Wang, Qiong Luo. "Efficient Parallel Subgraph Enumeration on A Single Machine." 2019 IEEE 35th International Conference on Data Engineering (**ICDE**). 2019. [[Paper](/files/ICDE19-LIGHT.pdf)][[Code](https://github.com/RapidsAtHKUST/LIGHT)][[Slides](/files/ICDE19-LIGHT-Slides.pdf)]
+* Xuntao Cheng, Bingsheng He, Eric Lo, Wei Wang, Shengliang Lu, and **Xinyu Chen**. "Deploying Hash Tables on Die-Stacked High Bandwidth Memory." The International Conference on Information and Knowledge Management (**CIKM**), 2019.
 
-* **Shixuan Sun**, Qiong Luo. "Scaling Up Subgraph Query Processing with Efficient Subgraph Matching." 2019 IEEE 35th International Conference on Data Engineering (**ICDE**). 2019. [[Paper](/files/ICDE19-vcFV.pdf)][[Code](https://github.com/RapidsAtHKUST/SubgraphContainment)][[Slides](/files/ICDE19-vcFV-Slides.pdf)]
-
-* Yulin Che, Zhuohang Lai, **Shixuan Sun**, Qiong Luo. "Accelerating All-Edge Common Neighbor Counting on Three Processors." Proceedings of the 48th International Conference on Parallel Processing (**ICPP**). 2019. [[Paper](/files/ICPP19-AccNC.pdf)][[Code](https://github.com/RapidsAtHKUST/AccTriCnt)][[Slides](/files/ICPP19-AccNC-Slides.pdf)]
-
-* Yulin Che, **Shixuan Sun**, and Qiong Luo. "Parallelizing Pruning-based Graph Structural Clustering." Proceedings of the 47th International Conference on Parallel Processing (**ICPP**). 2018. [[Paper](/files/ICPP18-ppScan.pdf)][[Code](https://github.com/RapidsAtHKUST/ppSCAN)][[Slides](/files/ICPP18-ppScan-Slides.pdf)]
-
-* **Shixuan Sun**, Qiong Luo. "Parallelizing Recursive Backtracking Based Subgraph Matching on a Single Machine." 2018 IEEE 24th International Conference on Parallel and Distributed Systems (**ICPADS**). 2018.  [[Paper](/files/ICPADS18-PSM.pdf)][[Slides](/files/ICPADS18-PSM-Slides.pdf)]
+* Chuang-Yi Gui, Long Zheng, Bingsheng He, Cheng Liu, **Xinyu Chen**, Xiao-Fei Liao, and Hai Jin. "A survey on graph processing accelerators: Challenges and opportunities." Journal of Computer Science and Technology, 2019. 
 
 
-* **Shixuan Sun**, Qiong Luo. "Subgraph Matching with Effective Matching Order and Indexing." IEEE Transactions on Knowledge and Data Engineering (**TKDE**). 2020. [[Paper](/files/TKDE20-VC.pdf)]
-
-
-
-
-Professional Services
+Work experience
 ======
-* PC Member for [CCGrid 2021](http://cloudbus.org/ccgrid2021/), [HiPC 2021](https://hipc.org/)
-* Reviewer for [ICDCS 2021](https://icdcs2021.us/), [ACM Computing Surveys](https://dl.acm.org/journal/csur), [TKDE](https://www.computer.org/csdl/journal/tk), [VLDBJ](https://vldb.org/vldb_journal/), [ACM Transactions on Storage](https://dl.acm.org/journal/tos), [DMKD](https://www.springer.com/journal/10618)
+* Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
+  * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
+* Xilinx - Intern in department of XUP (Sep 2015 - Aug 2016)
+  * Explore hardware-accelerated video processing on Xilinx Zynq FPGAs
+
+
+
 
 Teaching Experiences
 ======
-* Teaching Assistant, HKUST COMP5311 Database Architecture and Implementation
-* Teaching Assistant, HKUST MSBD5009 Parallel Programming
+* Teaching Assistant of CS4225: Big Data Systems for Data Science (NUS, 2020 Spring)
+* Teaching Assistant of CG2271: Real-time Operating System (NUS, 2018 Spring, 2018 Fall and 2019 Fall)
+* Teaching Assistant of IT1001: Introduction to Computing (NUS, 2019 Fall)
 
 Honors & Awards
 ======
-* The Championship of Alibaba POLARDB High Performance Competition (1/1808) [[News](https://www.cse.ust.hk/News/POLARDB2018/)][[Code](https://github.com/RapidsAtHKUST/EngineRaceRapids)][[Slides](/files/2019-POLARDB.pdf)]
-* Hong Kong PhD Fellowship Award 2015-2019
-* Outstanding Graduate of Shanghai 2011,2014
-* China National Scholarship 2009,2013
-* Google Excellent Student Scholarship 2010
+* Research Achievement Award, issued by National University of Singapore (2021)
+* Xilinx Adaptive Computing Developer Contest, 3rd Place (9 out of 72), issued by Xilinx (2020) [[link](https://www.xilinx.com/developer/community/xilinx-contests/adaptive-computing-contest-2020.html)]
+* Research Achievement Award, issued by National University of Singapore (2020)
+* Research Scholarship, issued by National University of Singapore (2017)
+* Honor Graduation of Harbin Institute of Technology (Top 2%) (2016)
+* National Scholarship (Top 2%), issued by China Ministry of Education (2013)
+* National Undergraduate Electronics Design Contest (Second Prize，Top 4.9%), issued by China Ministry of Education (2013)
+
+Talks
+======
+* The Xilinx Adaptive Compute Clusters (XACC) Technique Talk, 2021 
+* Xilinx University Program Winter Camp invited talk, 2021
+* Invited talk at Georgia Tech seminar, 2021
+
+Professional Services
+======
+* Reviewer of Information Science 2021
+* External reviewer of ICDCS 2021
+* External reviewer of CCGrid 2021
+
 
 <br/><br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=400&t=tt&d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
-
-<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Bnxxja3o_IcH_lA_4D22qWc54GmyyeiHlhKTN8PyYdA"></script> -->
