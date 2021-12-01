@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About ME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,10 +28,12 @@ Email: xinyuc@comp.nus.edu.sg -->
 
 Research Projects
 ======
-* An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs.
-* Efficient Graph Processing Framework on HLS-based FPGAs.
-* Hash Joins on Coupled CPU-FPGA Architecture.
-* Breadth-first Search (BFS) on Coupled CPU-FPGA Architecture.
+* An HLS-based Framework for Accelerating Data Intensive Applications on FPGAs
+* Efficient Graph Processing Framework on HLS-based FPGAs
+* Hash Joins on Coupled CPU-FPGA Architecture
+* Breadth-first Search (BFS) on Coupled CPU-FPGA Architecture
+
+
 
 Publications
 ======
