@@ -61,7 +61,7 @@ Publications
 * Chuang-Yi Gui, Long Zheng, Bingsheng He, Cheng Liu, **Xinyu Chen**, Xiao-Fei Liao, and Hai Jin. "A survey on graph processing accelerators: Challenges and opportunities." Journal of Computer Science and Technology, 2019. 
 
 
-Work experience
+Work Experiences
 ======
 * Alibaba Group - Intern in departmet of PAI  (Jun 2017 - Aug 2017)
   * Analyze the performance of the CNN accelerator on Intel Stratix 10 devices and identify system bottlenecks
