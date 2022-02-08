@@ -44,7 +44,7 @@ Publications
 
 <!-- * **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, and Weng-Fai Wong. "  ReGraph: Scaling Graph Processing on HBM-enabled FPGAs with Heterogeneous Pipelines "  International Symposium on Computer Architecture (ISCA) , 2022. (in submission) -->
 
-* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022. (in minor revision)
+* **Xinyu Chen**, Feng Cheng, Hongshi Tan, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. "  ThunderGP: Resource-Eﬀicient Graph Processing Framework on FPGAs with HLS  "ACM Transactions on Reconfigurable Technology and Systems (**TRETS**), 2022.
  
 * Hongshi Tan, **Xinyu Chen**, Yao Chen, Bingsheng He, Weng-Fai Wong and Deming Chen. " ThundeRiNG: Generating Multiple Independent Random Number Sequences on FPGAs"  The International Conference on Supercomputing (**ICS**), 2021. [[Paper](https://www.comp.nus.edu.sg/~wongwf/papers/ICS2021.pdf)][[Code](https://github.com/Xtra-Computing/ThundeRiNG)]
 
