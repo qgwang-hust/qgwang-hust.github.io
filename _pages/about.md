@@ -14,7 +14,7 @@ About me
 
 I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology.
 
-My research focuses on *deployable* hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analysing.
+My research focuses on *deployable* hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics.
 
 Publications
 ======
