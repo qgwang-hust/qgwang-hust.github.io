@@ -42,7 +42,7 @@ The 36th IEEE International Parallel and Distributed Processing Symposium
 * **[FPGA'21]** [GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing](https://dl.acm.org/doi/10.1145/3431920.3439288)<br/>
 **Qinggang Wang**, Long Zheng, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Wenbin Jiang, Fubing Mao<br/>
 The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays.<br/>
-<img src="https://github.com/qgwang-hust/qgwang-hust.github.io/blob/master/images/GraSU.png" width="5%"> on [GitHub](https://github.com/qgwang-hust/GraSU)
+<img src="https://qgwang-hust.github.io/images/GraSU.png" width="5%"> on [GitHub](https://github.com/qgwang-hust/GraSU)
 
 * **[PACT'21]** [SumPA: Efficient Pattern-Centric Graph Mining with Pattern Abstraction](https://ieeexplore.ieee.org/document/9563022)<br/>
 Chuangyi Gui, Xiaofei Liao, Long Zheng, Pengcheng Yao, **Qinggang Wang**, Hai Jin<br/>
