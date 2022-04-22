@@ -19,7 +19,7 @@ My research focuses on *deployable* hardware accelerators (with special interest
 Publications
 ======
 
-### 2022
+## 2022
 
 * **[HPCA'22]** [Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling](https://qgwang-hust.github.io/files/ChGraph-HPCA'22.pdf)<br/>
 **Qinggang Wang**, Long Zheng, Jingrui Yuan, Yu Huang, Pengcheng Yao, Chuangyi Gui, Ao Hu, Xiaofei Liao, Hai Jin<br/>
@@ -37,7 +37,7 @@ The 28th IEEE International Symposium on High-Performance Computer Architecture
 Dan Chen, Hai Jin, Long Zheng, Yu Huang, Pengcheng Yao, Chuangyi Gui, **Qinggang Wang**, Haifeng Liu, Haiheng He, Xiaofei Liao, Ran Zheng<br/>
 The 36th IEEE International Parallel and Distributed Processing Symposium
 
-### 2021
+## 2021
 
 * **[FPGA'21]** [GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing](https://dl.acm.org/doi/10.1145/3431920.3439288)<br/>
 **Qinggang Wang**, Long Zheng, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Wenbin Jiang, Fubing Mao<br/>
@@ -63,7 +63,7 @@ Yuwei Wu, **Qinggang Wang**, Long Zheng, Xiaofei Liao, Hai Jin, Wenbin Jiang, Ra
 Journal of Computer Science and Technology<br/>
 **(APPT 2021 Best Paprt Award)**
 
-### 2020
+## 2020
 
 * **[TACO'20]** [A Conflict-free Scheduler for High-performance Graph Processing on Multi-pipeline FPGAs](https://dl.acm.org/doi/10.1145/3390523)<br/>
 **Qinggang Wang**, Long Zheng, Jieshan Zhao, Xiaofei Liao, Hai Jin, Jingling Xue<br/>
@@ -73,7 +73,7 @@ ACM Transactions on Architecture and Code Optimization
 Long Zheng, Jieshan Zhao, Yu Huang, **Qinggang Wang**, Zhen Zeng, Jingling Xue, Xiaofei Liao, Hai Jin<br/>
 The 34th IEEE International Parallel and Distributed Processing Symposium
 
-### 2018
+## 2018
 
 * **[CGO'18]** [Scalable concurrency debugging with distributed graph processing](https://dl.acm.org/doi/10.1145/3168817)<br/>
 Long Zheng, Xiaofei Liao, Hai Jin, Jieshan Zhao, **Qinggang Wang**<br/>
