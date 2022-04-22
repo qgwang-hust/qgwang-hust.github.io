@@ -1,0 +1,4 @@
+Sitemap: https://qgwang-hust.github.io/sitemap.xml
+User-agent: *
+Allow: /
+
