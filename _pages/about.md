@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology.
+I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology. My advisors are Dr. [Long Zheng](http://faculty.hust.edu.cn/ZhengLong/en/index.htm) and Prof. [Xiaofei Liao](https://scholar.google.com/citations?user=Y7raoWUAAAAJ&hl=zh-CN).
 
 My research focuses on *deployable* hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics.
 
