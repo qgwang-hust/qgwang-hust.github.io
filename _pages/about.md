@@ -21,7 +21,7 @@ Publications
 
 ## 2022
 
-* **[HPCA'22]** [Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling](https://qgwang-hust.github.io/files/ChGraph-HPCA'22.pdf)<br/>
+* **[HPCA'22]** [Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling](https://ieeexplore.ieee.org/document/9773270)<br/>
 **Qinggang Wang**, Long Zheng, Jingrui Yuan, Yu Huang, Pengcheng Yao, Chuangyi Gui, Ao Hu, Xiaofei Liao, Hai Jin<br/>
 The 28th IEEE International Symposium on High-Performance Computer Architecture
 
