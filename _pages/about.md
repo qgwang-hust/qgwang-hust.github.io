@@ -12,28 +12,44 @@ redirect_from:
 About me
 ======
 
-I am currently a Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology. My advisors are Dr. [Long Zheng](http://faculty.hust.edu.cn/ZhengLong/en/index.htm) and Prof. [Xiaofei Liao](https://scholar.google.com/citations?user=Y7raoWUAAAAJ&hl=zh-CN).
-
-My research focuses on *deployable* hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics.
+I received my Ph.D. degree (advised by Prof. [Xiaofei Liao](https://scholar.google.com/citations?user=Y7raoWUAAAAJ&hl=zh-CN)) from Huazhong University of Science and Technology (HUST) in 2023. My research focuses on *deployable* hardware accelerators (with special interests in FPGAs) for complex graph applications such as dynamic graph processing and hypergraph analytics.
 
 Publications
 ======
 
+## 2024
+
+* **[MICRO'24]** [A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs]()<br/>
+**Qinggang Wang**, Long Zheng, Zhaozeng An, Shuyi Xiong, Runze Wang, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin, Jingling Xue:<br/>
+The 57th IEEE/ACM International Symposium on Microarchitecture
+
+* **[DAC'24]** [High-Performance and Resource-Efficient Dynamic Memory Management in High-Level Synthesis]()<br/>
+**Qinggang Wang**, Long Zheng, Zhaozeng An, Haoqin Huang, Haoran Zhu, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin:<br/>
+The 61st ACM/IEEE Design Automation Conference
+
+* **[IEEE TCAD]** [PhGraph: A High-Performance ReRAM-Based Accelerator for Hypergraph Applications](https://ieeexplore.ieee.org/document/10360252)<br/>
+Long Zheng, Ao Hu, **Qinggang Wang(Corresponding author)**, Yu Huang, Haoqin Huang, Pengcheng Yao, Shuyi Xiong, Xiaofei Liao, Hai Jin:<br/>
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+
 ## 2022
+
+* **[MICRO'22]** [A Data-Centric Accelerator for High-Performance Hypergraph Processing](https://ieeexplore.ieee.org/document/9923798)<br/>
+**Qinggang Wang**, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue:<br/>
+The 55th IEEE/ACM International Symposium on Microarchitecture
 
 * **[HPCA'22]** [Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling](https://ieeexplore.ieee.org/document/9773270)<br/>
 **Qinggang Wang**, Long Zheng, Jingrui Yuan, Yu Huang, Pengcheng Yao, Chuangyi Gui, Ao Hu, Xiaofei Liao, Hai Jin<br/>
 The 28th IEEE International Symposium on High-Performance Computer Architecture
 
-* **[HPCA'22]** [ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing]()<br/>
+* **[HPCA'22]** [ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing](https://ieeexplore.ieee.org/document/9773208)<br/>
 Pengcheng Yao, Long Zheng, Yu Huang, **Qinggang Wang**, Chuangyi Gui, Zheng Zeng, Xiaofei Liao, Hai Jin, Jingling Xue<br/>
 The 28th IEEE International Symposium on High-Performance Computer Architecture
 
-* **[HPCA'22]** [Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures]()<br/>
+* **[HPCA'22]** [Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures](https://ieeexplore.ieee.org/document/9926300)<br/>
 Yu Huang, Long Zheng, Pengcheng Yao, **Qinggang Wang**, Xiaofei Liao, Hai Jin, Jingling Xue<br/>
 The 28th IEEE International Symposium on High-Performance Computer Architecture
 
-* **[IPDPS'22]** [A General Offloading Approach for Processing-In-Memory Architectures]()<br/>
+* **[IPDPS'22]** [A General Offloading Approach for Processing-In-Memory Architectures](https://ieeexplore.ieee.org/document/9820674)<br/>
 Dan Chen, Hai Jin, Long Zheng, Yu Huang, Pengcheng Yao, Chuangyi Gui, **Qinggang Wang**, Haifeng Liu, Haiheng He, Xiaofei Liao, Ran Zheng<br/>
 The 36th IEEE International Parallel and Distributed Processing Symposium
 
@@ -65,7 +81,7 @@ Journal of Computer Science and Technology<br/>
 
 ## 2020
 
-* **[TACO'20]** [A Conflict-free Scheduler for High-performance Graph Processing on Multi-pipeline FPGAs](https://dl.acm.org/doi/10.1145/3390523)<br/>
+* **[ACM TACO]** [A Conflict-free Scheduler for High-performance Graph Processing on Multi-pipeline FPGAs](https://dl.acm.org/doi/10.1145/3390523)<br/>
 **Qinggang Wang**, Long Zheng, Jieshan Zhao, Xiaofei Liao, Hai Jin, Jingling Xue<br/>
 ACM Transactions on Architecture and Code Optimization
 
@@ -78,5 +94,15 @@ The 34th IEEE International Parallel and Distributed Processing Symposium
 * **[CGO'18]** [Scalable concurrency debugging with distributed graph processing](https://dl.acm.org/doi/10.1145/3168817)<br/>
 Long Zheng, Xiaofei Liao, Hai Jin, Jieshan Zhao, **Qinggang Wang**<br/>
 The 2018 International Symposium on Code Generation and Optimization
+
+Awards and Honors
+======
+
+* [ACM SIGOPS ChinaSys Doctoral Dissertation Award](https://chinasys.org/doku.php?id=awards), 2023.
+* CCF DAC Best Doctoral Dissertation Poster Award, 2023.
+* National Outstanding Postdoctoral Fellow in Innovation and Entrepreneurship, 2023.
+* International Open Benchmark Council 2023 Top 100 Chips Achievement Award, 2023.
+* Best Paper Award in APPT 2021.
+* National Scholarship for Ph.D. Graduate Students, 2021.
 
 <br/><br/>
