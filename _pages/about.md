@@ -69,7 +69,7 @@ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 
 * **[HPEC'22]** [Accelerating Sparse Deep Neural Network Inference Using GPU Tensor Cores](https://doi.org/10.1109/HPEC55821.2022.9926300)<br/>
 Yufei Sun, Long Zheng, **Qinggang Wang**, Xiangyu Ye, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin<br/>
-IEEE High Performance Extreme Computing Conference
+IEEE High Performance Extreme Computing Conference<br/>
 **([Graph Challenge 2022 Champion](http://graphchallenge.mit.edu/champions))**
 
 * **[IPDPS'22]** [A General Offloading Approach for Processing-In-Memory Architectures](https://ieeexplore.ieee.org/document/9820674)<br/>
