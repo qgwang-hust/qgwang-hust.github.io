@@ -27,7 +27,7 @@ The 57th IEEE/ACM International Symposium on Microarchitecture
 **Qinggang Wang**, Long Zheng, Zhaozeng An, Haoqin Huang, Haoran Zhu, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin<br/>
 The 61st ACM/IEEE Design Automation Conference
 
-* **[IEEE TCAD]** [PhGraph: A High-Performance ReRAM-Based Accelerator for Hypergraph Applications](https://ieeexplore.ieee.org/document/10360252)
+* **[IEEE TCAD]** [PhGraph: A High-Performance ReRAM-Based Accelerator for Hypergraph Applications](https://ieeexplore.ieee.org/document/10360252)<br/>
 Long Zheng, Ao Hu, **Qinggang Wang(Corresponding author)**, Yu Huang, Haoqin Huang, Pengcheng Yao, Shuyi Xiong, Xiaofei Liao, Hai Jin<br/>
 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 
