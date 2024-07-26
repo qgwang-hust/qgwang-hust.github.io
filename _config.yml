@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome to Qinggang Wang's Homepage"
 title_separator          : ""
 name                     : &name "Qinggang Wang"
-description              : &description "Ph.D. candidate at Huazhong University of Science and Technology"
+description              : &description "Postdoctoral fellow at Zhejiang Laboratory & Huazhong University of Science and Technology"
 url                      : https://qgwang-hust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qgwang-hust.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qinggang Wang"
-  avatar           : "profile.png"
-  bio              : "Ph.D. candidate at School of Computer Science and Technology, Huazhong University of Science and Technology"
+  avatar           : "me.png"
+  bio              : "Postdoctoral fellow at Zhejiang Laboratory & Huazhong University of Science and Technology"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=TbomW9sAAAAJ&hl=zh-CN"
   email            :  "qgwang@hust.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
