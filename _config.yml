@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Qinggang Wang's Homepage"
 title_separator          : ""
-name                     : &name "Qinggang Wang"
+name                     : &name "Qinggang Wang(王庆刚)"
 description              : &description "Postdoctoral fellow at Zhejiang Laboratory & Huazhong University of Science and Technology"
 url                      : https://qgwang-hust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
