@@ -19,6 +19,11 @@ redirect_from:
 
 长期从事高效能可重构计算系统相关研究，从上层算法理论，到中间层编译工具链、再到底层硬件架构，均有深厚的技术基础和经验积累。以第一作者/通讯作者在计算机体系结构领域顶级会议和期刊（MICRO、HPCA、DAC、FPGA、ACM TACO、IEEE TCAD等）上发表论文7篇，其中CCF A类论文6篇，申请国家发明专利5项和美国专利2项，主持国家自然科学基金青年项目、博士后特别资助（站前）/面上、国家重点研发计划青年科学家项目课题、浙江省自然科学基金探索青年项目，参与国家重点研发项目、国家自然科学基金重点项目等的研发工作，部分关键技术应用于国家电网、平安科技、浙江天猫等企业。曾获APPT’21学术会议最佳论文奖、2023年度“国际测试委员会Top 100 Chips Achievement Award”和“全国创新创业优秀博士后”，2021-2022连续两年获得图计算领域最具影响力挑战赛IEEE/MIT/Amazon Graph Challenge全球冠军(2021年国内首次获得)，博士论文入选2023年度“ACM ChinaSys优秀博士论文奖”和2023年度“CCF DAC最佳博士论文海报奖”。担任Frontiers of Computer Science、GPC审稿人。
 
+# 🔥 News
+- 2024.07: 🎉🎉 Our papers “A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs.” are accepted by MICRO 2024!
+- 2024.03: 🎉🎉 Our papers “High-Performance and Resource-Efficient Dynamic Memory Management in High-Level Synthesis.” are accepted by DAC 2024!
+- 2023.12: 🎉🎉 Our papers “A High-Performance ReRAM-Based Accelerator for Hypergraph Applications.” are accepted by TCAD 2024!
+
 # 📝 Publications 
 
 - **[HPCA]** Wenju Zhao, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, **<ins>Qinggang Wang</ins>**, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bin Zhu, Hai Jin, Jingling Xue. MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. In ***Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture***, 2025.
