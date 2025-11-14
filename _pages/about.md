@@ -1,11 +1,11 @@
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/91121a41-5dfc-4462-bf37-d4b34e1bac09" />---
+---
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+- /about/
+- /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -17,24 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-王庆刚，华中科技大学计算机学院副教授，主要从事软硬件协同的高效能稀疏智能计算系统相关研究，从上层算法理论，到中间层编译工具链、再到底层硬件架构，均有深厚的技术基础和经验积累，在计算机体系结构领域顶级会议和期刊（MICRO、HPCA、SC、DAC、ACM TACO、IEEE TCAD等）上发表论文30余篇，其中CCF A类论文9篇，授权国家发明专利6项和美国专利2项，主持国家自然科学基金青年项目、博士后特别资助（站前）/面上、国家重点研发计划青年科学家项目任务、浙江省自然科学基金探索青年项目，参与国家重点研发项目、国家自然科学基金重点项目等的研发工作，部分关键技术应用于国家电网、平安科技、浙江天猫、百度等企业。曾获 ACM ChinaSys 优秀博士论文奖、 CCF 体系结构专委博士学位论文激励计划、APPT’21 学术会议最佳论文奖、2023 年度国际测试委员会百强芯片成就奖和全国创新创业优秀博士后，图计算领域最具影响力赛事 IEEE/MIT/Amazon GraphChallenge 全球冠军(2021 年国内首次，2022 年蝉联)，第二届全国博士后创新创业大赛全国金奖， 第三届全国博士后创新创业大赛全国铜奖和第八届中国国际“互联网+”大学生创新创业大赛全国金奖。 担任ACM ChinaSys青年执委，CCF体系结构专委会/分布式计算与系统专委会执行委员。
+王庆刚，华中科技大学计算机学院副教授，主要从事软硬件协同的高效能图计算系统相关研究，从上层算法理论，到中间层编译工具链、再到底层硬件架构，均有深厚的技术基础和经验积累，在计算机体系结构领域顶级会议和期刊（MICRO、HPCA、SC、DAC、ACM TACO、IEEE TCAD等）上发表论文20余篇，申请国家发明专利5项和美国专利2项，主持国家自然科学基金青年项目、博士后特别资助（站前）/面上、国家重点研发计划青年科学家项目任务、浙江省自然科学基金探索青年项目，参与国家重点研发项目、国家自然科学基金重点项目等的研发工作，部分关键技术应用于国家电网、平安科技、浙江天猫、百度等企业。2023年3月在华中科技大学获得计算机软件与理论博士学位。2021-2022连续两年获得图计算领域最具影响力挑战赛IEEE/MIT/Amazon Graph Challenge全球冠军(2021年国内首次获得)，曾获APPT’21学术会议最佳论文奖、2023年度“国际测试委员会百强芯片成就奖”、“全国创新创业优秀博士后”、第二届全国博士后创新创业大赛金奖和第八届中国国际“互联网+”大学生创新创业大赛产业命题赛道全国金奖。
+王庆刚，华中科技大学计算机学院副教授，主要从事软硬件协同的高效能图计算系统相关研究，从上层算法理论，到中间层编译工具链、再到底层硬件架构，均有深厚的技术基础和经验积累，在计算机体系结构领域顶级会议和期刊（MICRO、HPCA、SC、DAC、ACM TACO、IEEE TCAD等）上发表论文30余篇，授权国家发明专利6项和美国专利2项，主持国家自然科学基金青年项目、博士后特别资助（站前）/面上、国家重点研发计划青年科学家项目任务、浙江省自然科学基金探索青年项目，参与国家重点研发项目、国家自然科学基金重点项目等的研发工作，部分关键技术应用于国家电网、平安科技、浙江天猫、百度等企业。2023年3月在华中科技大学获得计算机软件与理论博士学位。2021-2022连续两年获得图计算领域最具影响力挑战赛IEEE/MIT/Amazon Graph Challenge全球冠军(2021年国内首次获得)，入选2025年度CCF体系结构优秀博士学位论文激励计划，曾获APPT’21学术会议最佳论文奖、2023年度“国际测试委员会百强芯片成就奖”、“全国创新创业优秀博士后”、第二届全国博士后创新创业大赛金奖和第八届中国国际“互联网+”大学生创新创业大赛产业命题赛道全国金奖。
 
 # 🔥 News
-- 2025.11: 🎉🎉 Our paper “Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design” is accepted by ACM TACO!
-- 2025.11: 🎉🎉 Our paper “Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems” is accepted by HPCA'26!
-- 2025.06: 🎉🎉 Our paper “Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching” is accepted by SC'25!
-- 2024.11: 🎉🎉 Our paper “MeHyper: Accelerating Hypergraph Neural Networks by Exploring  Implicit Dataflows” is accepted by HPCA'25!
-- 2024.07: 🎉🎉 Our paper “A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs” is accepted by MICRO'24!
+- 2024.11: 🎉🎉 Our paper “Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching” is accepted by SC 2025!
+- 2024.11: 🎉🎉 Our paper “MeHyper: Accelerating Hypergraph Neural Networks by Exploring  Implicit Dataflows” is accepted by HPCA 2025!
+- 2024.07: 🎉🎉 Our paper “A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs” is accepted by MICRO 2024!
+- 2024.03: 🎉🎉 Our paper “High-Performance and Resource-Efficient Dynamic Memory Management in High-Level Synthesis” is accepted by DAC 2024!
+- 2023.12: 🎉🎉 Our papers “A High-Performance ReRAM-Based Accelerator for Hypergraph Applications” and "An Efficient GCNs Accelerator Using 3D-Stacked Processing-In-Memory Architectures" are accepted by IEEE TCAD!
 
-# 📝 Publications
+# 📝 Publications 
 **{*}** denotes corresponding author
-- **[HPCA'26]** Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems. ```CCF A```
-<br> Runze Wang, **Qinggang Wang***, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
-<br> In Proceedings of the 32th IEEE International Symposium on High-Performance Computer Architecture, 2026.
-- **[TACO'25]** Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design. ```CCF A```
-<br> Huanghai Liu, **Qinggang Wang***, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
-<br> In ACM Transactions on Architecture and Code Optimization, 2025.
-- **[SC'25]** Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching. ```CCF A```
+- **[SC'25]**  Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching. ```CCF A```
 <br> Kexin Li, Wenkan Huang, **Qinggang Wang***, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025.
 - **[HPCA'25]** MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. ```CCF A```
@@ -141,9 +136,12 @@ redirect_from:
 - **<ins>王庆刚</ins>**、刘黄海、黄禹、易小萌，一种基于局部性感知的核外图随机游走处理方法及系统，中国，发明专利，专利号: ZL202510098121.2
 - **<ins>王庆刚</ins>**、刘黄海、郑龙、黄禹，一种基于异质数据流图的多领域融合执行方法，中国，发明专利，专利号: ZL202510138660.4
 - **<ins>王庆刚</ins>**、安昭增、郑龙，一种基于笛卡尔树的高层次综合动态内存管理方法及装置，中国，发明专利，专利号: ZL202411020646.6
+- **<ins>王庆刚</ins>**、刘黄海、黄禹、易小萌，一种基于局部性感知的核外图随机游走处理方法及系统，中国，发明专利，专利号: ZL202510138660.4
+- **<ins>王庆刚</ins>**、刘黄海、郑龙、黄禹，一种基于异质数据流图的多领域融合执行方法，中国，发明专利，专利号: ZL202411020646.6
 - 黄禹、黄浩岩、郑龙、**<ins>王庆刚</ins>**，一种基于数据流的稀疏矩阵运算编程模型，中国，发明专利，专利号: ZL202410841907.4
 - 郑龙、**<ins>王庆刚</ins>**、安照增、金海，一种面向高层次综合的动态内存管理装置及方法，中国，发明专利， 申请号: 202210964944.5
 - 郑龙、**<ins>王庆刚</ins>**、胡澳、金海，一种面向超图处理的硬件加速器及其运行方法，中国，发明专利，申请号: 202210990115.4
 - 廖小飞, 赵杰山, 郑龙, 金海, **<ins>王庆刚</ins>**，一种基于OpenCL的FPGA图处理加速方法和系统，中国，发明专利，专利号: ZL201911029448.5
 - Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Zhaozeng An, Hai Jin. Dynamic Memory Management Apparatus and Method for HLS. 美国, 发明专利, 专利号: US 12,189,950 B2
+- Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Ao Hu, Hai Jin. Hardware Accelerator For Hypergraph Processing and Operating Method Thereof. 美国, 发明专利, 申请号: 18/145,565
 - Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Ao Hu, Hai Jin. Hardware Accelerator For Hypergraph Processing and Operating Method Thereof. 美国, 发明专利, 申请号: US 12,339,775 B2
