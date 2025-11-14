@@ -26,7 +26,7 @@ redirect_from:
 - 2024.11: 🎉🎉 Our paper “MeHyper: Accelerating Hypergraph Neural Networks by Exploring  Implicit Dataflows” is accepted by HPCA'25!
 - 2024.07: 🎉🎉 Our paper “A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs” is accepted by MICRO'24!
 
-# 📝 Publications 
+# 📝 Publications
 **{*}** denotes corresponding author
 - **[HPCA'26]**  Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems. ```CCF A```
 <br> Runze Wang, **Qinggang Wang***, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
