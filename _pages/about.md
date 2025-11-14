@@ -28,10 +28,10 @@ redirect_from:
 
 # 📝 Publications 
 **{*}** denotes corresponding author
-- **[HPCA'26]** Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems. ```CCF A```
+- **[HPCA'26]** [Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems]() ```CCF A```
 <br> Runze Wang, __Qinggang Wang*__, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the 32th IEEE International Symposium on High-Performance Computer Architecture, 2026.
-- **[TACO'25]** Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design. ```CCF A```
+- **[TACO'25]** [Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design]() ```CCF A```
 <br> Huanghai Liu, __Qinggang Wang*__, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In ACM Transactions on Architecture and Code Optimization, 2025.
 - **[SC'25]** [Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching](https://doi.org/10.1145/3712285.3759903) ```CCF A```
@@ -70,37 +70,37 @@ redirect_from:
 - **[HPCA'22]** [Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures](https://doi.org/10.1109/HPCA53966.2022.00079) ```CCF A```
 <br> Yu Huang, Long Zheng, Pengcheng Yao, **Qinggang Wang**, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture, 2022.
-- **[TCAD'22]** ReaDy: A ReRAM-based Processing-In-Memory Accelerator for Dynamic Graph Convolution Networks. ```CCF A```
+- **[TCAD'22]** [ReaDy: A ReRAM-based Processing-In-Memory Accelerator for Dynamic Graph Convolution Networks](https://doi.org/10.1109/TCAD.2022.3199152) ```CCF A```
 <br> Yu Huang, Long Zheng, Pengcheng Yao, **Qinggang Wang**, Haifeng Liu, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022.
-- **[IPDPS'22]** A General Offloading Approach for Processing-In-Memory Architectures. ```CCF B```
+- **[IPDPS'22]** [A General Offloading Approach for Processing-In-Memory Architectures](https://doi.org/10.1109/IPDPS53621.2022.00032) ```CCF B```
 <br> Dan Chen, Hai Jin, Long Zheng, Yu Huang, Pengcheng Yao, Chuangyi Gui, **Qinggang Wang**, Haifeng Liu, Haiheng He, Xiaofei Liao, Ran Zheng.
 <br> In Proceedings of the 36th IEEE International Parallel and Distributed Processing Symposium, 2022.
-- **[HPEC'22]** Accelerating Sparse Deep Neural Network Inference Using GPU Tensor Cores. ```IEEE/MIT/Amazon Graph Challenge 2022 Champion```
+- **[HPEC'22]** [Accelerating Sparse Deep Neural Network Inference Using GPU Tensor Cores](https://doi.org/10.1109/HPEC55821.2022.9926300) ```IEEE/MIT/Amazon Graph Challenge 2022 Champion```
 <br> Xufei Sun, Long Zheng, **Qinggang Wang**, Xiangyu Ye, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 2022 IEEE High Performance Extreme Computing Conference, 2022.
-- **[FPGA'21]** GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing. ```CCF B```
+- **[FPGA'21]** [GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing](https://doi.org/10.1145/3431920.343928) ```CCF B```
 <br> **Qinggang Wang**, Long Zheng, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Wenbin Jiang, Fubing Mao.
 <br> In Proceedings of the 2021 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, 2021.
-- **[PACT'21]** SumPA: Efficient Pattern-Centric Graph Mining with Pattern Abstraction. ```CCF B```
+- **[PACT'21]** [SumPA: Efficient Pattern-Centric Graph Mining with Pattern Abstraction](https://doi.org/10.1109/PACT52795.2021.00030) ```CCF B```
 <br> Chuangyi Gui, Xiaofei Liao, Long Zheng, Pengcheng Yao, **Qinggang Wang**, Hai Jin.
 <br> In Proceedings of the 30th International Conference on Parallel Architectures and Compilation Techniques, 2021.
-- **[JCST'21]** FDGLib: A Communication Library for Efficient Large-Scale Graph Processing in FPGA-Accelerated Data Centers. APPT 2021 Best Paper Award ```CCF B```
+- **[JCST'21]** [FDGLib: A Communication Library for Efficient Large-Scale Graph Processing in FPGA-Accelerated Data Centers](https://link.springer.com/article/10.1007/s11390-021-1242-y) ```APPT 2021 Best Paper Award``` ```CCF B```
 <br> Yuwei Wu, **Qinggang Wang**, Long Zheng, Xiaofei Liao, Hai Jin, Wenbin Jiang, Ran Zheng, Kan Hu.
 <br> In Journal of Computer Science and Technology, 2021.
-- **[HPEC'21]** Fast Sparse Deep Neural Network Inference with Flexible SpMM Optimization Space Exploration. ```IEEE/MIT/Amazon Graph Challenge 2021 Champion```
+- **[HPEC'21]** [Fast Sparse Deep Neural Network Inference with Flexible SpMM Optimization Space Exploration](https://doi.org/10.1109/HPEC49654.2021.9622791) ```IEEE/MIT/Amazon Graph Challenge 2021 Champion```
 <br> Jie Xin, Xianqi Ye, Long Zheng, **Qinggang Wang**, Yu Huang, Pengcheng Yao, Linchen Yu, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 2021 IEEE High Performance Extreme Computing Conference, 2021.
-- **[HPEC'21]** Productive High-Performance k-Truss Decomposition on GPU Using Linear Algebra. ```IEEE/MIT/Amazon Graph Challenge 2021 Innovation Award```
+- **[HPEC'21]** [Productive High-Performance k-Truss Decomposition on GPU Using Linear Algebra](https://doi.org/10.1109/HPEC49654.2021.9622792) ```IEEE/MIT/Amazon Graph Challenge 2021 Innovation Award```
 <br> Runze Wang, Linchen Yu, **Qinggang Wang**, Jie Xin, Long Zheng.
 <br> In Proceedings of the 2021 IEEE High Performance Extreme Computing Conference, 2021.
-- **[TACO'20]** A Conflict-free Scheduler for High-performance Graph Processing on Multi-pipeline FPGAs. ```CCF A```
+- **[TACO'20]** [A Conflict-free Scheduler for High-performance Graph Processing on Multi-pipeline FPGAs](https://doi.org/10.1145/3390523) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Jieshan Zhao, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> ACM Transactions on Architecture and Code Optimization, 2020.
-- **[IPDPS'20]** Spara: An Energy-Efficient ReRAM-Based Accelerator for Sparse Graph Analytics Applications. ```CCF B```
+- **[IPDPS'20]** [Spara: An Energy-Efficient ReRAM-Based Accelerator for Sparse Graph Analytics Applications](https://doi.org/10.1109/IPDPS47924.2020.00077) ```CCF B```
 <br> Long Zheng, Jieshan Zhao, Yu Huang, **Qinggang Wang**, Zhen Zeng, Jingling Xue, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 34th IEEE International Parallel and Distributed Processing Symposium, 2020.
-- **[CGO'18]** Scalable Concurrency Debugging with Distributed Graph Processing. ```CCF B```
+- **[CGO'18]** [Scalable Concurrency Debugging with Distributed Graph Processing](https://doi.org/10.1145/3168817) ```CCF B```
 <br> Long Zheng, Xiaofei Liao, Hai Jin, Jieshan Zhao, **Qinggang Wang**.
 <br> In Proceedings of the 2018 International Symposium on Code Generation and Optimization, 2018.
 
