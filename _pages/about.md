@@ -34,40 +34,40 @@ redirect_from:
 - **[TACO'25]** Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design. ```CCF A```
 <br> Huanghai Liu, __Qinggang Wang*__, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In ACM Transactions on Architecture and Code Optimization, 2025.
-- **[SC'25]** Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching. ```CCF A```
+- **[SC'25]** [Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching](https://doi.org/10.1145/3712285.3759903) ```CCF A```
 <br> Kexin Li, Wenkan Huang, __Qinggang Wang*__, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025.
-- **[HPCA'25]** MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. ```CCF A```
+- **[HPCA'25]** [MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows](https://doi.org/10.1109/HPCA61900.2025.00073) ```CCF A```
 <br> Wenju Zhao, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, **Qinggang Wang**, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bin Zhu, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture, 2025.
-- **[MICRO'24]** A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs. ```CCF A```
+- **[MICRO'24]** [A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs](https://doi.org/10.1109/MICRO61859.2024.00040) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Zhaozeng An, Shuyi Xiong, Runze Wang, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 57th ACM/IEEE International Symposium on Microarchitecture, 2024.
-- **[DAC'24]** High-Performance and Resource-Efficient Dynamic Memory Management in High-Level Synthesis. ```CCF A```
+- **[DAC'24]** [High-Performance and Resource-Efficient Dynamic Memory Management in High-Level Synthesis](https://doi.org/10.1145/3649329.3655945) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Zhaozeng An, Haoqin Huang, Haoran Zhu, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 61st ACM/IEEE Design Automation Conference, 2024.
-- **[TCAD'24]** PhGraph: A High-Performance ReRAM-Based Accelerator for Hypergraph Applications. ```CCF A```
+- **[TCAD'24]** [PhGraph: A High-Performance ReRAM-Based Accelerator for Hypergraph Applications](https://doi.org/10.1109/TCAD.2023.3343228) ```CCF A```
 <br> Long Zheng, Ao Hu, __Qinggang Wang*__, Yu Huang, Haoqin Huang, Pengcheng Yao, Shuyi Xiong, Xiaofei Liao, Hai Jin.
 <br> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.
-- **[TCAD'24]** An Efficient GCNs Accelerator Using 3D-Stacked Processing-In-Memory Architectures. ```CCF A```
+- **[TCAD'24]** [An Efficient GCNs Accelerator Using 3D-Stacked Processing-In-Memory Architectures](https://doi.org/10.1109/TCAD.2023.3341753) ```CCF A```
 <br> Runze Wang, Ao Hu, Long Zheng, **Qinggang Wang**, Jingrui Yuan, Haifeng Liu, Linchen Yu, Xiaofei Liao, Hai Jin.
 <br> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.
-- **[ICDE'23]** AFaVS: Accurate Yet Fast Version Switching for Graph Processing Systems. ```CCF A```
+- **[ICDE'23]** [AFaVS: Accurate Yet Fast Version Switching for Graph Processing Systems](https://doi.org/10.1109/ICDE55515.2023.00012) ```CCF A```
 <br> Long Zheng, Xiangyu Ye, Haifeng Liu, **Qinggang Wang**, Yu Huang, Chuangyi Gui, Pengcheng Yao, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 39th IEEE International Conference on Data Engineering, 2023.
-- **[DAC'23]** MeG2: In-Memory Acceleration for Genome Graphs Analysis. ```CCF A```
+- **[DAC'23]** [MeG2: In-Memory Acceleration for Genome Graphs Analysis](https://doi.org/10.1109/DAC56929.2023.10247956) ```CCF A```
 <br> Yu Huang, Long Zheng, Haifeng Liu, Zhuoran Zhou, Dan Chen, Pengcheng Yao, **Qinggang Wang**, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 60th ACM/IEEE Design Automation Conference, 2023.
-- **[MICRO'22]** A Data-Centric Accelerator for High-Performance Hypergraph Processing. ```CCF A```
+- **[MICRO'22]** [A Data-Centric Accelerator for High-Performance Hypergraph Processing](https://doi.org/10.1109/MICRO56248.2022.00088) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 55th ACM/IEEE International Symposium on Microarchitecture, 2022.
-- **[HPCA'22]** Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling. ```CCF A```
+- **[HPCA'22]** [Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling](https://doi.org/10.1109/HPCA53966.2022.00022) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Jingrei Yuan, Yu Huang, Pengcheng Yao, Chuangyi Gui, Ao Hu, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture, 2022.
-- **[HPCA'22]** ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing. ```CCF A```
+- **[HPCA'22]** [ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing](https://doi.org/10.1109/HPCA53966.2022.00023) ```CCF A```
 <br> Pengcheng Yao, Long Zheng, Yu Huang, **Qinggang Wang**, Chuangyi Gui, Zheng Zeng, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture, 2022.
-- **[HPCA'22]** Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. ```CCF A```
+- **[HPCA'22]** [Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures](https://doi.org/10.1109/HPCA53966.2022.00079) ```CCF A```
 <br> Yu Huang, Long Zheng, Pengcheng Yao, **Qinggang Wang**, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture, 2022.
 - **[TCAD'22]** ReaDy: A ReRAM-based Processing-In-Memory Accelerator for Dynamic Graph Convolution Networks. ```CCF A```
