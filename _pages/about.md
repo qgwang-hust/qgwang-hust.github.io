@@ -29,13 +29,13 @@ redirect_from:
 # 📝 Publications 
 **{*}** denotes corresponding author
 - **[HPCA'26]** Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems. ```CCF A```
-<br> Runze Wang, **Qinggang Wang***, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
+<br> Runze Wang, __Qinggang Wang*__, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the 32th IEEE International Symposium on High-Performance Computer Architecture, 2026.
 - **[TACO'25]** Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design. ```CCF A```
-<br> Huanghai Liu, **Qinggang Wang***, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
+<br> Huanghai Liu, __Qinggang Wang*__, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In ACM Transactions on Architecture and Code Optimization, 2025.
 - **[SC'25]** Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching. ```CCF A```
-<br> Kexin Li, Wenkan Huang, **Qinggang Wang***, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
+<br> Kexin Li, Wenkan Huang, __Qinggang Wang*__, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025.
 - **[HPCA'25]** MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows. ```CCF A```
 <br> Wenju Zhao, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, **Qinggang Wang**, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bin Zhu, Hai Jin, Jingling Xue.
@@ -47,7 +47,7 @@ redirect_from:
 <br> **Qinggang Wang**, Long Zheng, Zhaozeng An, Haoqin Huang, Haoran Zhu, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 61st ACM/IEEE Design Automation Conference, 2024.
 - **[TCAD'24]** PhGraph: A High-Performance ReRAM-Based Accelerator for Hypergraph Applications. ```CCF A```
-<br> Long Zheng, Ao Hu, **Qinggang Wang***, Yu Huang, Haoqin Huang, Pengcheng Yao, Shuyi Xiong, Xiaofei Liao, Hai Jin.
+<br> Long Zheng, Ao Hu, __Qinggang Wang*__, Yu Huang, Haoqin Huang, Pengcheng Yao, Shuyi Xiong, Xiaofei Liao, Hai Jin.
 <br> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.
 - **[TCAD'24]** An Efficient GCNs Accelerator Using 3D-Stacked Processing-In-Memory Architectures. ```CCF A```
 <br> Runze Wang, Ao Hu, Long Zheng, **Qinggang Wang**, Jingrui Yuan, Haifeng Liu, Linchen Yu, Xiaofei Liao, Hai Jin.
@@ -107,8 +107,8 @@ redirect_from:
 
 # 🎖 Honors and Awards
 - 2025年 入选“CCF体系结构优秀博士学位论文激励计划”
-- 2025年 第三届全国博士后创新创业大赛全国铜奖、湖北省博士后创新创业大赛省赛银奖(团队负责人)
-- 2025年 华为杯第八届中国研究生创“芯”大赛全国三等奖、新思科技企业命题二等奖、中国计算机学会CCF Computility图计算挑战赛一等奖(指导老师)
+- 2025年 第三届全国博士后创新创业大赛全国铜奖、湖北省博士后创新创业大赛省赛银奖（团队负责人）
+- 2025年 华为杯第八届中国研究生创“芯”大赛全国三等奖、新思科技企业命题二等奖、中国计算机学会CCF Computility图计算挑战赛一等奖（指导老师）
 - 2023年 “ACM ChinaSys优秀博士论文奖”
 - 2023年 “CCF DAC最佳博士论文海报奖”
 - 2023年 “全国创新创业优秀博士后”
