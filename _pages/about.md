@@ -1,4 +1,4 @@
----
+<img width="432" height="38" alt="image" src="https://github.com/user-attachments/assets/8ce07da9-dcde-43e1-86ab-a9a9a044546c" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -29,6 +29,12 @@ redirect_from:
 
 # 📝 Publications 
 **{*}** denotes corresponding author
+- **[HPCA'26]**  Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems. ```CCF A```
+<br> Runze Wang, **Qinggang Wang***, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
+<br> In Proceedings of the 32th IEEE International Symposium on High-Performance Computer Architecture, 2026.
+- **[TACO'25]**  Accelerating Out-of-Core Random Walk Processing Via Locality-Aware Algorithm-Hardware Co-Design. ```CCF A```
+<br> Huanghai Liu, **Qinggang Wang***, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
+<br> ACM Transactions on Architecture and Code Optimization, 2026.
 - **[SC'25]**  Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching. ```CCF A```
 <br> Kexin Li, Wenkan Huang, **Qinggang Wang***, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025.
@@ -91,7 +97,7 @@ redirect_from:
 <br> In Proceedings of the 2021 IEEE High Performance Extreme Computing Conference, 2021.
 - **[TACO'20]** A Conflict-free Scheduler for High-performance Graph Processing on Multi-pipeline FPGAs. ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Jieshan Zhao, Xiaofei Liao, Hai Jin, Jingling Xue.
-<br> In ACM Transactions on Architecture and Code Optimization, 2020.
+<br> ACM Transactions on Architecture and Code Optimization, 2020.
 - **[IPDPS'20]** Spara: An Energy-Efficient ReRAM-Based Accelerator for Sparse Graph Analytics Applications. ```CCF B```
 <br> Long Zheng, Jieshan Zhao, Yu Huang, **Qinggang Wang**, Zhen Zeng, Jingling Xue, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 34th IEEE International Parallel and Distributed Processing Symposium, 2020.
