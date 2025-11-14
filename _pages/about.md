@@ -146,5 +146,4 @@ redirect_from:
 - 郑龙、**<ins>王庆刚</ins>**、胡澳、金海，一种面向超图处理的硬件加速器及其运行方法，中国，发明专利，申请号: 202210990115.4
 - 廖小飞, 赵杰山, 郑龙, 金海, **<ins>王庆刚</ins>**，一种基于OpenCL的FPGA图处理加速方法和系统，中国，发明专利，专利号: ZL201911029448.5
 - Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Zhaozeng An, Hai Jin. Dynamic Memory Management Apparatus and Method for HLS. 美国, 发明专利, 专利号: US 12,189,950 B2
-- Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Ao Hu, Hai Jin. Hardware Accelerator For Hypergraph Processing and Operating Method Thereof. 美国, 发明专利, 申请号: 18/145,565
 - Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Ao Hu, Hai Jin. Hardware Accelerator For Hypergraph Processing and Operating Method Thereof. 美国, 发明专利, 申请号: US 12,339,775 B2
