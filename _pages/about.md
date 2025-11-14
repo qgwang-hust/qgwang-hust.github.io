@@ -29,12 +29,6 @@ redirect_from:
 
 # 📝 Publications 
 **{*}** denotes corresponding author
-- **[HPCA'26]**  Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems. ```CCF A```
-<br> Runze Wang, **Qinggang Wang***, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
-<br> In Proceedings of the 32th IEEE International Symposium on High-Performance Computer Architecture, 2026.
-- **[TACO'25]**  Accelerating Out-of-Core Random Walk Processing Via Locality-Aware Algorithm-Hardware Co-Design. ```CCF A```
-<br> Huanghai Liu, **Qinggang Wang***, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
-<br> ACM Transactions on Architecture and Code Optimization, 2026.
 - **[SC'25]**  Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching. ```CCF A```
 <br> Kexin Li, Wenkan Huang, **Qinggang Wang***, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, 2025.
