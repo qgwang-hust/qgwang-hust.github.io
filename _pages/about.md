@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-王庆刚，华中科技大学计算机学院副教授，主要从事软硬件协同的稀疏智能计算系统相关研究，从上层算法理论，到中间层编译工具链、再到底层硬件架构，均有深厚的技术基础和经验积累，在计算机体系结构领域顶级会议和期刊（MICRO、HPCA、SC、DAC、ACM TACO、IEEE TCAD等）上发表论文20余篇，申请国家发明专利5项和美国专利2项，主持国家自然科学基金青年项目、博士后特别资助（站前）/面上、国家重点研发计划青年科学家项目任务、浙江省自然科学基金探索青年项目，参与国家重点研发项目、国家自然科学基金重点项目等的研发工作，部分关键技术应用于国家电网、平安科技、浙江天猫、百度等企业。曾获ACM ChinaSys优秀博士论文奖、 CCF体系结构专委博士学位论文激励计划、APPT’21学术会议最佳论文奖、2023年度国际测试委员会百强芯片成就奖和全国创新创业优秀博士后，图计算领域最具影响力赛事IEEE/MIT/Amazon GraphChallenge全球冠军(2021年国内首次，2022年蝉联)，第二届全国博士后创新创业大赛全国金奖，第三届全国博士后创新创业大赛全国铜奖和第八届中国国际“互联网+”大学生创新创业大赛全国金奖。担任ACM ChinaSys 青年执委，CCF体系结构专委会/分布式计算与系统专委会执行委员。
+王庆刚，华中科技大学计算机学院副教授，主要从事软硬件协同的稀疏智能计算系统相关研究，从上层算法理论，到中间层编译工具链、再到底层硬件架构，均有深厚的技术基础和经验积累，在计算机体系结构领域顶级会议和期刊（MICRO、HPCA、SC、DAC、ACM TACO、IEEE TCAD等）上发表论文20余篇，授权国家发明专利6项和美国专利2项，主持国家自然科学基金青年项目、博士后特别资助（站前）/面上、国家重点研发计划青年科学家项目任务、浙江省自然科学基金探索青年项目，参与国家重点研发项目、国家自然科学基金重点项目等的研发工作，部分关键技术应用于国家电网、平安科技、浙江天猫、百度等企业。曾获ACM ChinaSys优秀博士论文奖、 CCF体系结构专委博士学位论文激励计划、APPT’21学术会议最佳论文奖、2023年度国际测试委员会百强芯片成就奖和全国创新创业优秀博士后，图计算领域最具影响力赛事IEEE/MIT/Amazon GraphChallenge全球冠军(2021年国内首次，2022年蝉联)，第二届全国博士后创新创业大赛全国金奖，第三届全国博士后创新创业大赛全国铜奖和第八届中国国际“互联网+”大学生创新创业大赛全国金奖。担任ACM ChinaSys 青年执委，CCF体系结构专委会/分布式计算与系统专委会执行委员。
 
 # 🔥 News
 - 2025.11: 🎉🎉 Our paper “Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design” is accepted by ACM TACO!
@@ -28,10 +28,12 @@ redirect_from:
 
 # 📝 Publications 
 **{*}** denotes corresponding author
+### 2026
 - **[HPCA'26]** [Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems]() ```CCF A```
 <br> Runze Wang, __Qinggang Wang*__, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In Proceedings of the 32th IEEE International Symposium on High-Performance Computer Architecture, 2026.
-- **[TACO'25]** [Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design]() ```CCF A```
+### 2025
+- **[TACO'25]** [Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design](https://doi.org/10.1145/3779123) ```CCF A```
 <br> Huanghai Liu, __Qinggang Wang*__, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue. 
 <br> In ACM Transactions on Architecture and Code Optimization, 2025.
 - **[SC'25]** [Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching](https://doi.org/10.1145/3712285.3759903) ```CCF A```
@@ -40,6 +42,7 @@ redirect_from:
 - **[HPCA'25]** [MeHyper: Accelerating Hypergraph Neural Networks by Exploring Implicit Dataflows](https://doi.org/10.1109/HPCA61900.2025.00073) ```CCF A```
 <br> Wenju Zhao, Pengcheng Yao, Dan Chen, Long Zheng, Xiaofei Liao, **Qinggang Wang**, Shaobo Ma, Yu Li, Haifeng Liu, Wenjing Xiao, Yufei Sun, Bin Zhu, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 31st IEEE International Symposium on High-Performance Computer Architecture, 2025.
+### 2024
 - **[MICRO'24]** [A Scalable, Efficient, and Robust Dynamic Memory Management Library for HLS-based FPGAs](https://doi.org/10.1109/MICRO61859.2024.00040) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Zhaozeng An, Shuyi Xiong, Runze Wang, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 57th ACM/IEEE International Symposium on Microarchitecture, 2024.
@@ -52,12 +55,14 @@ redirect_from:
 - **[TCAD'24]** [An Efficient GCNs Accelerator Using 3D-Stacked Processing-In-Memory Architectures](https://doi.org/10.1109/TCAD.2023.3341753) ```CCF A```
 <br> Runze Wang, Ao Hu, Long Zheng, **Qinggang Wang**, Jingrui Yuan, Haifeng Liu, Linchen Yu, Xiaofei Liao, Hai Jin.
 <br> In IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.
+### 2023
 - **[ICDE'23]** [AFaVS: Accurate Yet Fast Version Switching for Graph Processing Systems](https://doi.org/10.1109/ICDE55515.2023.00012) ```CCF A```
 <br> Long Zheng, Xiangyu Ye, Haifeng Liu, **Qinggang Wang**, Yu Huang, Chuangyi Gui, Pengcheng Yao, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 39th IEEE International Conference on Data Engineering, 2023.
 - **[DAC'23]** [MeG2: In-Memory Acceleration for Genome Graphs Analysis](https://doi.org/10.1109/DAC56929.2023.10247956) ```CCF A```
 <br> Yu Huang, Long Zheng, Haifeng Liu, Zhuoran Zhou, Dan Chen, Pengcheng Yao, **Qinggang Wang**, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 60th ACM/IEEE Design Automation Conference, 2023.
+### 2022
 - **[MICRO'22]** [A Data-Centric Accelerator for High-Performance Hypergraph Processing](https://doi.org/10.1109/MICRO56248.2022.00088) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Ao Hu, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> In Proceedings of the 55th ACM/IEEE International Symposium on Microarchitecture, 2022.
@@ -79,6 +84,7 @@ redirect_from:
 - **[HPEC'22]** [Accelerating Sparse Deep Neural Network Inference Using GPU Tensor Cores](https://doi.org/10.1109/HPEC55821.2022.9926300) ```IEEE/MIT/Amazon Graph Challenge 2022 Champion```
 <br> Xufei Sun, Long Zheng, **Qinggang Wang**, Xiangyu Ye, Yu Huang, Pengcheng Yao, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 2022 IEEE High Performance Extreme Computing Conference, 2022.
+### 2021
 - **[FPGA'21]** [GraSU: A Fast Graph Update Library for FPGA-based Dynamic Graph Processing](https://doi.org/10.1145/3431920.343928) ```CCF B```
 <br> **Qinggang Wang**, Long Zheng, Yu Huang, Pengcheng Yao, Chuangyi Gui, Xiaofei Liao, Hai Jin, Wenbin Jiang, Fubing Mao.
 <br> In Proceedings of the 2021 ACM/SIGDA International Symposium on Field Programmable Gate Arrays, 2021.
@@ -94,12 +100,14 @@ redirect_from:
 - **[HPEC'21]** [Productive High-Performance k-Truss Decomposition on GPU Using Linear Algebra](https://doi.org/10.1109/HPEC49654.2021.9622792) ```IEEE/MIT/Amazon Graph Challenge 2021 Innovation Award```
 <br> Runze Wang, Linchen Yu, **Qinggang Wang**, Jie Xin, Long Zheng.
 <br> In Proceedings of the 2021 IEEE High Performance Extreme Computing Conference, 2021.
+### 2020
 - **[TACO'20]** [A Conflict-free Scheduler for High-performance Graph Processing on Multi-pipeline FPGAs](https://doi.org/10.1145/3390523) ```CCF A```
 <br> **Qinggang Wang**, Long Zheng, Jieshan Zhao, Xiaofei Liao, Hai Jin, Jingling Xue.
 <br> ACM Transactions on Architecture and Code Optimization, 2020.
 - **[IPDPS'20]** [Spara: An Energy-Efficient ReRAM-Based Accelerator for Sparse Graph Analytics Applications](https://doi.org/10.1109/IPDPS47924.2020.00077) ```CCF B```
 <br> Long Zheng, Jieshan Zhao, Yu Huang, **Qinggang Wang**, Zhen Zeng, Jingling Xue, Xiaofei Liao, Hai Jin.
 <br> In Proceedings of the 34th IEEE International Parallel and Distributed Processing Symposium, 2020.
+### 2018
 - **[CGO'18]** [Scalable Concurrency Debugging with Distributed Graph Processing](https://doi.org/10.1145/3168817) ```CCF B```
 <br> Long Zheng, Xiaofei Liao, Hai Jin, Jieshan Zhao, **Qinggang Wang**.
 <br> In Proceedings of the 2018 International Symposium on Code Generation and Optimization, 2018.
@@ -144,8 +152,9 @@ redirect_from:
 - **<ins>王庆刚</ins>**、刘黄海、郑龙、黄禹，一种基于异质数据流图的多领域融合执行方法，中国，发明专利，专利号: ZL202510138660.4
 - **<ins>王庆刚</ins>**、安昭增、郑龙，一种基于笛卡尔树的高层次综合动态内存管理方法及装置，中国，发明专利，专利号: ZL202411020646.6
 - 黄禹、黄浩岩、郑龙、**<ins>王庆刚</ins>**，一种基于数据流的稀疏矩阵运算编程模型，中国，发明专利，专利号: ZL202410841907.4
-- 郑龙、**<ins>王庆刚</ins>**、安照增、金海，一种面向高层次综合的动态内存管理装置及方法，中国，发明专利， 申请号: 202210964944.5
+- **<ins>王庆刚</ins>**、李可欣、郑龙、廖小飞，一种基于优先级差分缓存的MoE批量推理方法及系统，中国，发明专利，申请号: 202511650387.X
+- 郑龙、**<ins>王庆刚</ins>**、安照增、金海，一种面向高层次综合的动态内存管理装置及方法，中国，发明专利，申请号: 202210964944.5
 - 郑龙、**<ins>王庆刚</ins>**、胡澳、金海，一种面向超图处理的硬件加速器及其运行方法，中国，发明专利，申请号: 202210990115.4
 - 廖小飞, 赵杰山, 郑龙, 金海, **<ins>王庆刚</ins>**，一种基于OpenCL的FPGA图处理加速方法和系统，中国，发明专利，专利号: ZL201911029448.5
 - Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Zhaozeng An, Hai Jin. Dynamic Memory Management Apparatus and Method for HLS. 美国, 发明专利, 专利号: US 12,189,950 B2
-- Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Ao Hu, Hai Jin. Hardware Accelerator For Hypergraph Processing and Operating Method Thereof. 美国, 发明专利, 申请号: US 12,339,775 B2
+- Long Zheng, **<ins>Qinggang Wang</ins>**, Xiaofei Liao, Ao Hu, Hai Jin. Hardware Accelerator For Hypergraph Processing and Operating Method Thereof. 美国, 发明专利, 专利号: US 12,339,775 B2
