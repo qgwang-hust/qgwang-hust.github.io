@@ -6,7 +6,7 @@ export const PROFILE: ProfileData = {
   title: "Associate Professor",
   institution: "Huazhong University of Science and Technology (HUST)",
   email: "qgwang@hust.edu.cn",
-  bio: "I am an Associate Professor in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST). I received my Ph.D. degree from HUST under the supervision of Prof. Xiaofei Liao. From March 2023 to March 2025, I worked as a Postdoctoral Researcher at Zhejiang Lab, advised by Prof. Hai Jin. My research interests focus on hardware–software co-design for energy-efficient sparse computing, with particular emphasis on graph processing and large language model (LLM) inference. I have published approximately 30 academic papers in top-tier international conferences and journals, including MICRO, HPCA, SC, DAC, ICDE, FPGA, ACM TACO, and IEEE TCAD.\n\nI am now looking for perspective Undergraduate Students and Master Students. If you are passionate about the above research areas and interested in working with me, please feel free to contact me via email.",
+  bio: "I am an Associate Professor in the School of Computer Science and Technology at Huazhong University of Science and Technology (HUST). I received my Ph.D. degree from HUST under the supervision of Prof. Xiaofei Liao. From March 2023 to March 2025, I worked as a Postdoctoral Researcher at Zhejiang Lab, advised by Prof. Hai Jin. My research interests focus on hardware–software co-design for energy-efficient sparse computing, with particular emphasis on graph processing and large language model (LLM) inference. I have published approximately 30 academic papers in top-tier international conferences and journals, including MICRO, HPCA, SC, DAC, ICDE, FPGA, ICS, ACM TACO, and IEEE TCAD.\n\nI am now looking for perspective Undergraduate Students and Master Students. If you are passionate about the above research areas and interested in working with me, please feel free to contact me via email.",
   interests: ["Accelerator", "Hardware-Software Co-design", "Graph Processing", "LLM Inference"],
   googleScholar: "https://scholar.google.com/citations?user=TbomW9sAAAAJ&hl=zh-CN",
   github: "https://github.com/qgwang-hust",
@@ -15,12 +15,49 @@ export const PROFILE: ProfileData = {
 };
 
 export const NEWS: NewsItem[] = [
+  { date: "Feb 2026", content: "Our three papers are accepted by DAC 2026, and one paper is accepted by ICS 2026!" },
   { date: "Nov 2025", content: "Our paper “Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design” is accepted by ACM TACO!" },
   { date: "Nov 2025", content: "Our paper “Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems” is accepted by HPCA 2026!" },
   { date: "Jun 2025", content: "Our paper “Diff-MoE: Efficient Batched MoE Inference with Priority-Driven Differential Expert Caching” is accepted by SC 2025!" },
 ];
 
 export const PUBLICATIONS: Publication[] = [
+  {
+    title: "HBSpec: A Hybrid-Bonding-based Heterogeneous Accelerator for Efficient Tree-Structured Speculative Decoding",
+    authors: "Runze Wang, Qinggang Wang*, Haifeng Liu, Xinyu Zhu, Chenggang Duan, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue",
+    venue: "DAC",
+    year: 2026,
+    tags: ["CCF-A"],
+    url: "#",
+    selected: true
+  },
+  {
+    title: "An Energy-Efficient Dataflow Architecture for Efficient MoE Model Inference",
+    authors: "Kexin Li, Qinggang Wang*, Chuanhui Qi, Shaoxian Xu, Wenkan Huang, Xiangzheng Yang, Ruoshi Li, Bo Liu, Long Zheng, Xiaofei Liao, Hai Jin",
+    venue: "DAC",
+    year: 2026,
+    tags: ["CCF-A"],
+    url: "#",
+    selected: true
+  },
+  {
+    title: "FuseDot: A Multiplication-Fused Dot Product Accelerator for Efficient LLM Inference",
+    authors: "Wenju Zhao, Jianhui Yue, Pengcheng Yao, Yujia Cui, Qinggang Wang, Yufei Sun, Jiaqi Zhai, Hai Jin, Xiaofei Liao",
+    venue: "DAC",
+    year: 2026,
+    tags: ["CCF-A"],
+    url: "#",
+    selected: false
+  },
+  {
+    title: "DANMP: Accelerating Multi-Scale Deformable Attention Using Near-Memory-Processing Architecture",
+    authors: "Huize Li, Qinggang Wang*, Bin Gao, Dan Chen, Yu Huang, Xin Xin",
+    venue: "ICS",
+    year: 2026,
+    tags: ["CCF-B"],
+    url: "#",
+    selected: true
+  },
   {
     title: "Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems",
     authors: "Runze Wang, Qinggang Wang*, Haifeng Liu, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue",
