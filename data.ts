@@ -11,7 +11,7 @@ export const PROFILE: ProfileData = {
   googleScholar: "https://scholar.google.com/citations?user=TbomW9sAAAAJ&hl=zh-CN",
   github: "https://github.com/qgwang-hust",
   dblp: "https://dblp.org/pid/15/457.html",
-  chineseUrl: "https://qgwang-hust.github.io/zh/"
+  chineseUrl: "http://faculty.hust.edu.cn/QinggangWang/zh_CN/index.htm"
 };
 
 export const NEWS: NewsItem[] = [
