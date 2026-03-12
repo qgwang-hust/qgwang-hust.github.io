@@ -64,12 +64,12 @@ export const PUBLICATIONS: Publication[] = [
     venue: "HPCA",
     year: 2026,
     tags: ["CCF-A"],
-    url: "#",
+    url: "https://doi.ieeecomputersociety.org/10.1109/HPCA68181.2026.11408598",
     selected: true
   },
   {
     title: "Accelerating Out-of-Core Random Walk Processing Via Locality-Aware Algorithm-Hardware Co-Design",
-    authors: "Hai Huang, Qinggang Wang*, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue",
+    authors: "Huanghai Liu, Qinggang Wang*, Huize Li, Long Zheng, Liwei Si, Xu Zhao, Xiaofei Liao, Hai Jin, Jingling Xue",
     venue: "ACM TACO",
     year: 2025,
     tags: ["CCF-A"],
