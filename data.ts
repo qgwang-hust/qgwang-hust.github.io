@@ -51,12 +51,12 @@ export const PUBLICATIONS: Publication[] = [
   },
   {
     title: "DANMP: Accelerating Multi-Scale Deformable Attention Using Near-Memory-Processing Architecture",
-    authors: "Huize Li, Qinggang Wang*, Bin Gao, Dan Chen, Yu Huang, Xin Xin",
+    authors: "Huize Li, Qinggang Wang, Bin Gao, Dan Chen, Yu Huang, Xin Xin",
     venue: "ICS",
     year: 2026,
     tags: ["CCF-B"],
     url: "#",
-    selected: true
+    selected: false
   },
   {
     title: "Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems",
