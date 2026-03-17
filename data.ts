@@ -64,7 +64,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: "HPCA",
     year: 2026,
     tags: ["CCF-A"],
-    url: "https://doi.ieeecomputersociety.org/10.1109/HPCA68181.2026.11408598",
+    url: "https://doi.org/10.1109/HPCA68181.2026.11408598",
     selected: true
   },
   {
