@@ -23,6 +23,15 @@ export const NEWS: NewsItem[] = [
 
 export const PUBLICATIONS: Publication[] = [
   {
+    title: "Hardware-Accelerated Streaming Graph Processing with Fast Refinement",
+    authors: "Jingrui Yuan, Qinggang Wang*, Haoran Zhu, Xiaofei Liao",
+    venue: "APPT",
+    year: 2026,
+    tags: ["CCF-C"],
+    url: "#",
+    selected: true
+  },
+  {
     title: "HBSpec: A Hybrid-Bonding-based Heterogeneous Accelerator for Efficient Tree-Structured Speculative Decoding",
     authors: "Runze Wang, Qinggang Wang*, Haifeng Liu, Xinyu Zhu, Chenggang Duan, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue",
     venue: "DAC",
