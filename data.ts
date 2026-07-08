@@ -15,6 +15,7 @@ export const PROFILE: ProfileData = {
 };
 
 export const NEWS: NewsItem[] = [
+  { date: "Jul 2026", content: "Our paper “RAIL: A Reconfigurable Spatial Accelerator for Linear-Time  Sequence Model Inference” is accepted by MICRO 2026!" },
   { date: "Feb 2026", content: "Our three papers are accepted by DAC 2026, and one paper is accepted by ICS 2026!" },
   { date: "Nov 2025", content: "Our paper “Accelerating Out-of-Core Random Walk Processing via Locality-Aware Algorithm-Hardware Co-Design” is accepted by ACM TACO!" },
   { date: "Nov 2025", content: "Our paper “Adaptive Draft Sequence Length: Enhancing Speculative Decoding Throughput on PIM-Enabled Systems” is accepted by HPCA 2026!" },
@@ -22,6 +23,15 @@ export const NEWS: NewsItem[] = [
 ];
 
 export const PUBLICATIONS: Publication[] = [
+  {
+    title: "RAIL: A Reconfigurable Spatial Accelerator for Linear-Time  Sequence Model Inference",
+    authors: "Xinyu Zhu, Qinggang Wang*, Wenju Zhao, Bing Zhu, Runze Wang, Long Zheng, Xiaofei Liao, Hai Jin, Jingling Xue",
+    venue: "MICRO",
+    year: 2026,
+    tags: ["CCF-A"],
+    url: "#",
+    selected: true
+  },
   {
     title: "Hardware-Accelerated Streaming Graph Processing with Fast Refinement",
     authors: "Jingrui Yuan, Qinggang Wang*, Haoran Zhu, Xiaofei Liao",
