@@ -33,6 +33,15 @@ export const PUBLICATIONS: Publication[] = [
     selected: true
   },
   {
+    title: "SpecTwin: Accelerating Tree-based Speculative Decoding via Differential Token Quantization",
+    authors: "Yufei Sun, Pengcheng Yao, Long Zheng,Yundong Zhang, Yu Huang, Qinggang Wang, Huize Li, Wenju Zhao, Bing Zhu, Haifeng Liu, Xiaofei Liao, Hai Jin",
+    venue: "IEEE TCAD",
+    year: 2026,
+    tags: ["CCF-A"],
+    url: "#",
+    selected: false
+  },
+  {
     title: "Hardware-Accelerated Streaming Graph Processing with Fast Refinement",
     authors: "Jingrui Yuan, Qinggang Wang*, Haoran Zhu, Xiaofei Liao",
     venue: "APPT",
@@ -74,7 +83,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: "ICS",
     year: 2026,
     tags: ["CCF-B"],
-    url: "#",
+    url: "https://doi.org/10.1145/3797905.3800510",
     selected: false
   },
   {
