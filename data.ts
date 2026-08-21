@@ -33,6 +33,15 @@ export const PUBLICATIONS: Publication[] = [
     selected: true
   },
   {
+    title: "FOAMS: Efficient Anonymized Network Sensing using Compact Matrix Format and Multi-Stage Pipeline Parallelism",
+    authors: "Jun Mai, Qinggang Wang*, Haonan Wu, Qinggang Wang, Pengcheng Yao, Yu Huang, Long Zheng, Xiaofei Liao, Hai Jin",
+    venue: "HPEC",
+    year: 2026,
+    tags: ["IEEE/MIT/Amazon Graph Challenge 2026 Champions"],
+    url: "#",
+    selected: true
+  },
+  {
     title: "SpecTwin: Accelerating Tree-based Speculative Decoding via Differential Token Quantization",
     authors: "Yufei Sun, Pengcheng Yao, Long Zheng,Yundong Zhang, Yu Huang, Qinggang Wang, Huize Li, Wenju Zhao, Bing Zhu, Haifeng Liu, Xiaofei Liao, Hai Jin",
     venue: "IEEE TCAD",
