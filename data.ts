@@ -37,7 +37,7 @@ export const PUBLICATIONS: Publication[] = [
     authors: "Jun Mai, Qinggang Wang*, Haonan Wu, Pengcheng Yao, Yu Huang, Long Zheng, Xiaofei Liao, Hai Jin",
     venue: "HPEC",
     year: 2026,
-    tags: ["IEEE/MIT/Amazon Graph Challenge 2026 Champions"],
+    tags: ["IEEE/MIT/Amazon Graph Challenge 2026 Champion"],
     url: "#",
     selected: true
   },
