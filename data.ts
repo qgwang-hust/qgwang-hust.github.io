@@ -34,7 +34,7 @@ export const PUBLICATIONS: Publication[] = [
   },
   {
     title: "FOAMS: Efficient Anonymized Network Sensing using Compact Matrix Format and Multi-Stage Pipeline Parallelism",
-    authors: "Jun Mai, Qinggang Wang*, Haonan Wu, Qinggang Wang, Pengcheng Yao, Yu Huang, Long Zheng, Xiaofei Liao, Hai Jin",
+    authors: "Jun Mai, Qinggang Wang*, Haonan Wu, Pengcheng Yao, Yu Huang, Long Zheng, Xiaofei Liao, Hai Jin",
     venue: "HPEC",
     year: 2026,
     tags: ["IEEE/MIT/Amazon Graph Challenge 2026 Champions"],
