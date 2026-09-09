@@ -33,6 +33,15 @@ export const PUBLICATIONS: Publication[] = [
     selected: true
   },
   {
+    title: "PIM-Enabled Parallel Speculative Decoding for Long-Context Edge LLM Inference",
+    authors: "Runze Wang, Huanghai Liu, Qinggang Wang*, Yu Huang, Huize Li, Long Zheng, Xiaofei Liao",
+    venue: "ICCD",
+    year: 2026,
+    tags: ["CCF-B"],
+    url: "#",
+    selected: true
+  },
+  {
     title: "FOAMS: Efficient Anonymized Network Sensing using Compact Matrix Format and Multi-Stage Pipeline Parallelism",
     authors: "Jun Mai, Qinggang Wang*, Haonan Wu, Pengcheng Yao, Yu Huang, Long Zheng, Xiaofei Liao, Hai Jin",
     venue: "HPEC",
