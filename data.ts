@@ -74,7 +74,7 @@ export const PUBLICATIONS: Publication[] = [
     venue: "APPT",
     year: 2026,
     tags: ["CCF-C"],
-    url: "#",
+    url: "https://doi.org/10.1007/978-981-92-4805-6_30",
     selected: true
   },
   {
