@@ -42,6 +42,15 @@ export const PUBLICATIONS: Publication[] = [
     selected: true
   },
   {
+    title: "ReStream: A Locality-Aware Software/Hardware Co-Design for Efficient Large-Scale Streaming Graph Processing",
+    authors: "Ruoshi Li, Pengcheng Yao, Zhen Zeng, Yuhang Zhou, Dan Chen, Yu Huang, Qinggang Wang, Long Zheng, Xiaofei Liao, Hai Jin",
+    venue: "FCS",
+    year: 2026,
+    tags: ["CCF-B"],
+    url: "#",
+    selected: false
+  },
+  {
     title: "FOAMS: Efficient Anonymized Network Sensing using Compact Matrix Format and Multi-Stage Pipeline Parallelism",
     authors: "Jun Mai, Qinggang Wang*, Haonan Wu, Pengcheng Yao, Yu Huang, Long Zheng, Xiaofei Liao, Hai Jin",
     venue: "HPEC",
