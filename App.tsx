@@ -128,8 +128,8 @@ const App: React.FC = () => {
 
             {/* Publications Section */}
             <Section id="publications" title="Publications" actions={publicationActions}>
-              <p className="mb-6 text-xs text-slate-400 italic">
-                <span className="font-extrabold text-slate-600">*</span> Corresponding author
+              <p className="mb-6 text-sm text-slate-700 italic">
+                <span className="font-extrabold text-slate-700">*</span> Corresponding author
               </p>
 
               <div className="space-y-8">
@@ -168,7 +168,7 @@ const App: React.FC = () => {
                       </p>
                       
                       <div className="mt-1.5 flex items-center space-x-4">
-                        <span className="text-sm font-bold italic text-slate-900">{pub.venue} {pub.year}</span>
+                        <span className="text-sm font-bold not-italic text-slate-900">{pub.venue} {pub.year}</span>
                         {pub.tags?.map((tag, i) => (
                           <span key={i} className="text-[11px] uppercase tracking-widest font-bold bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded">
                             {tag}
