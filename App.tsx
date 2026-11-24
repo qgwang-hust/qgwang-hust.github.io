@@ -128,8 +128,8 @@ const App: React.FC = () => {
 
             {/* Publications Section */}
             <Section id="publications" title="Publications" actions={publicationActions}>
-              <p className="mb-6 text-sm text-slate-700 italic">
-                <span className="font-extrabold text-slate-700">*</span> Corresponding author
+              <p className="mb-6 text-base text-slate-900 italic">
+                <span className="font-extrabold text-slate-900">*</span> Corresponding author
               </p>
 
               <div className="space-y-8">
