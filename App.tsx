@@ -168,7 +168,7 @@ const App: React.FC = () => {
                       </p>
                       
                       <div className="mt-1.5 flex items-center space-x-4">
-                        <span className="text-sm font-bold italic text-slate-700">{pub.venue} {pub.year}</span>
+                        <span className="text-sm font-bold italic text-slate-900">{pub.venue} {pub.year}</span>
                         {pub.tags?.map((tag, i) => (
                           <span key={i} className="text-[11px] uppercase tracking-widest font-bold bg-indigo-50 text-indigo-700 px-2 py-0.5 rounded">
                             {tag}
